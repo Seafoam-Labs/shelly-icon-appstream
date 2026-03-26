@@ -58,7 +58,6 @@
     "src/64x64/antimicrox.png",
     "src/128x128/antimicrox.png"
   ],
-  "appstream-glib": [],
   "ardour": [
     "src/64x64/ardour.png",
     "src/128x128/ardour.png"
@@ -67,8 +66,6 @@
     "src/64x64/arianna.png",
     "src/128x128/arianna.png"
   ],
-  "ark": [],
-  "artikulate": [],
   "astromenace": [
     "src/64x64/astromenace.png",
     "src/128x128/astromenace.png"
@@ -105,7 +102,6 @@
     "src/64x64/bitwarden.png",
     "src/128x128/bitwarden.png"
   ],
-  "blinken": [],
   "bluefish": [
     "src/64x64/bluefish.png",
     "src/128x128/bluefish.png"
@@ -138,7 +134,6 @@
     "src/64x64/calligra.png",
     "src/128x128/calligra.png"
   ],
-  "cantor": [],
   "carla": [
     "src/64x64/carla.png",
     "src/128x128/carla.png"
@@ -167,7 +162,6 @@
     "src/64x64/claws-mail.png",
     "src/128x128/claws-mail.png"
   ],
-  "clinfo": [],
   "cockatrice": [
     "src/64x64/cockatrice.png",
     "src/128x128/cockatrice.png"
@@ -184,7 +178,6 @@
     "src/64x64/converseen.png",
     "src/128x128/converseen.png"
   ],
-  "copyq": [],
   "cpu-x": [
     "src/64x64/cpu-x.png",
     "src/128x128/cpu-x.png"
@@ -217,12 +210,10 @@
     "src/64x64/desmume.png",
     "src/128x128/desmume.png"
   ],
-  "digikam": [],
   "dino": [
     "src/64x64/dino.png",
     "src/128x128/dino.png"
   ],
-  "dolphin": [],
   "dosbox": [
     "src/64x64/dosbox.png",
     "src/128x128/dosbox.png"
@@ -239,7 +230,6 @@
     "src/64x64/elastic.png",
     "src/128x128/elastic.png"
   ],
-  "elisa": [],
   "emblem": [
     "src/64x64/emblem.png",
     "src/128x128/emblem.png"
@@ -252,7 +242,6 @@
     "src/64x64/enigma.png",
     "src/128x128/enigma.png"
   ],
-  "evolution": [],
   "eyedropper": [
     "src/64x64/eyedropper.png",
     "src/128x128/eyedropper.png"
@@ -261,8 +250,6 @@
     "src/64x64/f3d.png",
     "src/128x128/f3d.png"
   ],
-  "falkon": [],
-  "filelight": [],
   "filezilla": [
     "src/64x64/filezilla.png",
     "src/128x128/filezilla.png"
@@ -323,13 +310,10 @@
     "src/64x64/furnace.png",
     "src/128x128/furnace.png"
   ],
-  "fwupd": [],
   "geany": [
     "src/64x64/geany.png",
     "src/128x128/geany.png"
   ],
-  "geary": [],
-  "gedit": [],
   "gephi": [
     "src/64x64/gephi.png",
     "src/128x128/gephi.png"
@@ -342,7 +326,6 @@
     "src/64x64/ghidra.png",
     "src/128x128/ghidra.png"
   ],
-  "ghostwriter": [],
   "glabels": [
     "src/64x64/glabels.png",
     "src/128x128/glabels.png"
@@ -403,7 +386,6 @@
     "src/64x64/gummi.png",
     "src/128x128/gummi.png"
   ],
-  "gwenview": [],
   "halloy": [
     "src/64x64/halloy.png",
     "src/128x128/halloy.png"
@@ -484,12 +466,10 @@
     "src/64x64/jacktrip.png",
     "src/128x128/jacktrip.png"
   ],
-  "juk": [],
   "julius": [
     "src/64x64/julius.png",
     "src/128x128/julius.png"
   ],
-  "kaffeine": [],
   "kaidan": [
     "src/64x64/kaidan.png",
     "src/128x128/kaidan.png"
@@ -502,9 +482,6 @@
     "src/64x64/kalm.png",
     "src/128x128/kalm.png"
   ],
-  "kalzium": [],
-  "kamoso": [],
-  "kanagram": [],
   "kapman": [
     "src/64x64/kapman.png",
     "src/128x128/kapman.png"
@@ -513,12 +490,10 @@
     "src/64x64/kasts.png",
     "src/128x128/kasts.png"
   ],
-  "kate": [],
   "katomic": [
     "src/64x64/katomic.png",
     "src/128x128/katomic.png"
   ],
-  "kbibtex": [],
   "kblackbox": [
     "src/64x64/kblackbox.png",
     "src/128x128/kblackbox.png"
@@ -535,26 +510,18 @@
     "src/64x64/kbreakout.png",
     "src/128x128/kbreakout.png"
   ],
-  "kbruch": [],
-  "kcachegrind": [],
-  "kcalc": [],
   "kcharselect": [
     "src/64x64/kcharselect.png",
     "src/128x128/kcharselect.png"
   ],
-  "kcolorchooser": [],
-  "kdenlive": [],
-  "kdevelop": [],
   "kdiamond": [
     "src/64x64/kdiamond.png",
     "src/128x128/kdiamond.png"
   ],
-  "kdiff3": [],
   "kdiskmark": [
     "src/64x64/kdiskmark.png",
     "src/128x128/kdiskmark.png"
   ],
-  "keepassxc": [],
   "keysmith": [
     "src/64x64/keysmith.png",
     "src/128x128/keysmith.png"
@@ -567,7 +534,6 @@
     "src/64x64/kfourinline.png",
     "src/128x128/kfourinline.png"
   ],
-  "kgeography": [],
   "kgeotag": [
     "src/64x64/kgeotag.png",
     "src/128x128/kgeotag.png"
@@ -580,8 +546,6 @@
     "src/64x64/kgoldrunner.png",
     "src/128x128/kgoldrunner.png"
   ],
-  "kgraphviewer": [],
-  "khangman": [],
   "kicad": [
     "src/64x64/kicad.png",
     "src/128x128/kicad.png"
@@ -590,7 +554,6 @@
     "src/64x64/kid3.png",
     "src/128x128/kid3.png"
   ],
-  "kig": [],
   "kigo": [
     "src/64x64/kigo.png",
     "src/128x128/kigo.png"
@@ -603,12 +566,10 @@
     "src/64x64/killbots.png",
     "src/128x128/killbots.png"
   ],
-  "kimagemapeditor": [],
   "kiriki": [
     "src/64x64/kiriki.png",
     "src/128x128/kiriki.png"
   ],
-  "kiten": [],
   "kjumpingcube": [
     "src/64x64/kjumpingcube.png",
     "src/128x128/kjumpingcube.png"
@@ -625,7 +586,6 @@
     "src/64x64/kleopatra.png",
     "src/128x128/kleopatra.png"
   ],
-  "klettres": [],
   "klevernotes": [
     "src/64x64/klevernotes.png",
     "src/128x128/klevernotes.png"
@@ -642,8 +602,6 @@
     "src/64x64/kmines.png",
     "src/128x128/kmines.png"
   ],
-  "kmplot": [],
-  "kmymoney": [],
   "knetwalk": [
     "src/64x64/knetwalk.png",
     "src/128x128/knetwalk.png"
@@ -660,19 +618,14 @@
     "src/64x64/kollision.png",
     "src/128x128/kollision.png"
   ],
-  "kolourpaint": [],
-  "kommit": [],
   "komodo": [
     "src/64x64/komodo.png",
     "src/128x128/komodo.png"
   ],
-  "kompare": [],
-  "kongress": [],
   "konquest": [
     "src/64x64/konquest.png",
     "src/128x128/konquest.png"
   ],
-  "konsole": [],
   "kontact": [
     "src/64x64/kontact.png",
     "src/128x128/kontact.png"
@@ -681,7 +634,6 @@
     "src/64x64/kontrast.png",
     "src/128x128/kontrast.png"
   ],
-  "konversation": [],
   "kooha": [
     "src/64x64/kooha.png",
     "src/128x128/kooha.png"
@@ -690,8 +642,6 @@
     "src/64x64/kphotoalbum.png",
     "src/128x128/kphotoalbum.png"
   ],
-  "krdc": [],
-  "krename": [],
   "kreversi": [
     "src/64x64/kreversi.png",
     "src/128x128/kreversi.png"
@@ -704,7 +654,6 @@
     "src/64x64/kronometer.png",
     "src/128x128/kronometer.png"
   ],
-  "kruler": [],
   "kshisen": [
     "src/64x64/kshisen.png",
     "src/128x128/kshisen.png"
@@ -725,14 +674,10 @@
     "src/64x64/ksquares.png",
     "src/128x128/ksquares.png"
   ],
-  "kstars": [],
   "ksudoku": [
     "src/64x64/ksudoku.png",
     "src/128x128/ksudoku.png"
   ],
-  "kteatime": [],
-  "ktorrent": [],
-  "ktouch": [],
   "ktrip": [
     "src/64x64/ktrip.png",
     "src/128x128/ktrip.png"
@@ -741,7 +686,6 @@
     "src/64x64/ktuberling.png",
     "src/128x128/ktuberling.png"
   ],
-  "kturtle": [],
   "kubrick": [
     "src/64x64/kubrick.png",
     "src/128x128/kubrick.png"
@@ -806,7 +750,6 @@
     "src/64x64/manuals.png",
     "src/128x128/manuals.png"
   ],
-  "marble": [],
   "marknote": [
     "src/64x64/marknote.png",
     "src/128x128/marknote.png"
@@ -843,12 +786,10 @@
     "src/64x64/minder.png",
     "src/128x128/minder.png"
   ],
-  "minuet": [],
   "moserial": [
     "src/64x64/moserial.png",
     "src/128x128/moserial.png"
   ],
-  "mosh": [],
   "mousai": [
     "src/64x64/mousai.png",
     "src/128x128/mousai.png"
@@ -905,7 +846,6 @@
     "src/64x64/nheko.png",
     "src/128x128/nheko.png"
   ],
-  "nuspell": [],
   "nyxt": [
     "src/64x64/nyxt.png",
     "src/128x128/nyxt.png"
@@ -918,8 +858,6 @@
     "src/64x64/oculante.png",
     "src/128x128/oculante.png"
   ],
-  "okteta": [],
-  "okular": [],
   "openmw": [
     "src/64x64/openmw.png",
     "src/128x128/openmw.png"
@@ -952,7 +890,6 @@
     "src/64x64/paraview.png",
     "src/128x128/paraview.png"
   ],
-  "parley": [],
   "photoflare": [
     "src/64x64/photoflare.png",
     "src/128x128/photoflare.png"
@@ -977,7 +914,6 @@
     "src/64x64/poedit.png",
     "src/128x128/poedit.png"
   ],
-  "polari": [],
   "polyphone": [
     "src/64x64/polyphone.png",
     "src/128x128/polyphone.png"
@@ -1066,7 +1002,6 @@
     "src/64x64/retroarch.png",
     "src/128x128/retroarch.png"
   ],
-  "rhythmbox": [],
   "riff": [
     "src/64x64/riff.png",
     "src/128x128/riff.png"
@@ -1083,7 +1018,6 @@
     "src/64x64/rnote.png",
     "src/128x128/rnote.png"
   ],
-  "rocs": [],
   "root": [
     "src/64x64/root.png",
     "src/128x128/root.png"
@@ -1116,7 +1050,6 @@
     "src/64x64/shotcut.png",
     "src/128x128/shotcut.png"
   ],
-  "shotwell": [],
   "sigil": [
     "src/64x64/sigil.png",
     "src/128x128/sigil.png"
@@ -1125,8 +1058,6 @@
     "src/64x64/simutrans.png",
     "src/128x128/simutrans.png"
   ],
-  "skanlite": [],
-  "skanpage": [],
   "skrooge": [
     "src/64x64/skrooge.png",
     "src/128x128/skrooge.png"
@@ -1187,7 +1118,6 @@
     "src/64x64/teeworlds.png",
     "src/128x128/teeworlds.png"
   ],
-  "tellico": [],
   "tempo": [
     "src/64x64/tempo.png",
     "src/128x128/tempo.png"
@@ -1208,7 +1138,6 @@
     "src/64x64/texstudio.png",
     "src/128x128/texstudio.png"
   ],
-  "tiled": [],
   "tipp10": [
     "src/64x64/tipp10.png",
     "src/128x128/tipp10.png"
@@ -1229,17 +1158,14 @@
     "src/64x64/uget.png",
     "src/128x128/uget.png"
   ],
-  "umbrello": [],
   "unison": [
     "src/64x64/unison.png",
     "src/128x128/unison.png"
   ],
-  "vdpauinfo": [],
   "viking": [
     "src/64x64/viking.png",
     "src/128x128/viking.png"
   ],
-  "vim": [],
   "vivaldi": [
     "src/64x64/vivaldi.png",
     "src/128x128/vivaldi.png"
@@ -1252,12 +1178,10 @@
     "src/64x64/vmpk.png",
     "src/128x128/vmpk.png"
   ],
-  "vvave": [],
   "vym": [
     "src/64x64/vym.png",
     "src/128x128/vym.png"
   ],
-  "waifu2x-ncnn-vulkan": [],
   "warp": [
     "src/64x64/warp.png",
     "src/128x128/warp.png"
@@ -1298,7 +1222,6 @@
     "src/64x64/xonotic.png",
     "src/128x128/xonotic.png"
   ],
-  "yakuake": [],
   "yass": [
     "src/64x64/yass.png",
     "src/128x128/yass.png"
@@ -1319,7 +1242,6 @@
     "src/64x64/zettlr.png",
     "src/128x128/zettlr.png"
   ],
-  "zola": [],
   "cryptomator": [
     "src/64x64/cryptomator.png",
     "src/128x128/cryptomator.png"
@@ -1328,7 +1250,6 @@
     "src/64x64/equibop.png",
     "src/128x128/equibop.png"
   ],
-  "freefilesync": [],
   "freetube": [
     "src/64x64/freetube.png",
     "src/128x128/freetube.png"
@@ -1533,7 +1454,6 @@
     "src/64x64/gaphor.png",
     "src/128x128/gaphor.png"
   ],
-  "gaupol": [],
   "geeqie": [
     "src/64x64/geeqie.png",
     "src/128x128/geeqie.png"
@@ -1626,12 +1546,10 @@
     "src/64x64/manuskript.png",
     "src/128x128/manuskript.png"
   ],
-  "marker": [],
   "mediathekview": [
     "src/64x64/mediathekview.png",
     "src/128x128/mediathekview.png"
   ],
-  "meld": [],
   "mitmproxy": [
     "src/64x64/mitmproxy.png",
     "src/128x128/mitmproxy.png"
@@ -1644,7 +1562,6 @@
     "src/64x64/morphosis.png",
     "src/128x128/morphosis.png"
   ],
-  "netbeans": [],
   "nicotine\u002B": [
     "src/64x64/nicotine\u002B.png",
     "src/128x128/nicotine\u002B.png"
@@ -1673,7 +1590,6 @@
     "src/64x64/osmo.png",
     "src/128x128/osmo.png"
   ],
-  "paperwork": [],
   "pencil2d": [
     "src/64x64/pencil2d.png",
     "src/128x128/pencil2d.png"
@@ -1786,7 +1702,6 @@
     "src/64x64/words.png",
     "src/128x128/words.png"
   ],
-  "yazi": [],
   "zenmap": [
     "src/64x64/zenmap.png",
     "src/128x128/zenmap.png"
@@ -1923,7 +1838,6 @@
     "src/64x64/drawpile.png",
     "src/128x128/drawpile.png"
   ],
-  "dropbox": [],
   "emote": [
     "src/64x64/emote.png",
     "src/128x128/emote.png"
@@ -2128,7 +2042,6 @@
     "src/64x64/opentodolist.png",
     "src/128x128/opentodolist.png"
   ],
-  "otpclient": [],
   "oversteer": [
     "src/64x64/oversteer.png",
     "src/128x128/oversteer.png"
@@ -2157,7 +2070,6 @@
     "src/64x64/pinta.png",
     "src/128x128/pinta.png"
   ],
-  "pix": [],
   "pixelorama": [
     "src/64x64/pixelorama.png",
     "src/128x128/pixelorama.png"
@@ -2206,7 +2118,6 @@
     "src/64x64/refine.png",
     "src/128x128/refine.png"
   ],
-  "revelation": [],
   "rewaita": [
     "src/64x64/rewaita.png",
     "src/128x128/rewaita.png"
@@ -2263,7 +2174,6 @@
     "src/64x64/texmacs.png",
     "src/128x128/texmacs.png"
   ],
-  "thonny": [],
   "timetrack": [
     "src/64x64/timetrack.png",
     "src/128x128/timetrack.png"
@@ -2335,5 +2245,970 @@
   "zrythm": [
     "src/64x64/zrythm.png",
     "src/128x128/zrythm.png"
+  ],
+  "linux-cachyos": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bmq-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-bore-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-deckify-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-eevdf-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-gcc-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-hardened-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-lts-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-gcc-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto-nvidia": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rt-bore-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto-dbg": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-lto-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-nvidia-open": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-r8125": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-server-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-alacritty-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-ananicy-rules": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-benchmarker": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-deckify": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-next": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-next-sysroot": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-ai": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-deckify": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-grub": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-limine": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-ai": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-deckify": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-grub": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-limine": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-refind": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-systemd": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-systemd-efi": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-next-test-refind": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-refind": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-calamares-qt6-systemd": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-cli-installer": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-cli-installer-new": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-cli-installer-new-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-dnscrypt-proxy": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-dwm-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-emerald-kde-theme-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-firefox-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-fish-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-gaming-applications": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-gaming-meta": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-grub-theme": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-handheld": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-hello": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-hooks": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-hyprland-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-i3wm-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-iridescent-kde": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-kde-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-kde-settings-dev": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-kdump-tools": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-kernel-manager": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-keyring": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-kofuku": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-ksm-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-lavender-kde-theme-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-micro-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-mirrorlist": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-niri-noctalia": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-niri-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-nord-gtk-theme-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-nord-kde-theme-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-openbox-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-packageinstaller": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-picom-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-plymouth-bootanimation": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-plymouth-theme": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-qtile-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-rate-mirrors": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-samba-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-snapper-support": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-spectrwm-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-st-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-sysctl-manager": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-themes-sddm": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-v3-mirrorlist": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-v4-mirrorlist": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-vapor": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-wallpapers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-wayfire-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-xfce-settings": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-zsh-config": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "gamescope-session-cachyos": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-cacule": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-cacule-headers": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-cacule-zfs": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "linux-cachyos-rc-nvidia": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "proton-cachyos": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "proton-cachyos-slr": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "wine-cachyos": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "wine-cachyos-opt": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
+  ],
+  "cachyos-ananicy-rules-git": [
+    "src/48x48/cachyos.png",
+    "src/128x128/cachyos.png",
+    "src/64x64/cachyos.png"
   ]
 }

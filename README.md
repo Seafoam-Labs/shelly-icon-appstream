@@ -1,0 +1,1 @@
+# shelly-icon-appstream

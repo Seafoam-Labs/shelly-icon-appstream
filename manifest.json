@@ -1,11 +1,12 @@
 {
-  "gimp":[
+  "gimp": [
     "src/48x48/gimp.png",
     "src/128x128/gimp.png",
     "src/64x64/gimp.png"
   ],
   "discord": [
-    "src/64x64/discord.png"
+    "src/64x64/discord.png",
+    "src/128x128/discord.png"
   ],
   "python2": [
     "src/48x48/python.png",
@@ -16,5 +17,2323 @@
     "src/48x48/python.png",
     "src/128x128/python.png",
     "src/64x64/python.png"
+  ],
+  "abiword": [
+    "src/64x64/abiword.png",
+    "src/128x128/abiword.png"
+  ],
+  "adriconf": [
+    "src/64x64/adriconf.png",
+    "src/128x128/adriconf.png"
+  ],
+  "aegisub": [
+    "src/64x64/aegisub.png",
+    "src/128x128/aegisub.png"
+  ],
+  "akregator": [
+    "src/64x64/akregator.png",
+    "src/128x128/akregator.png"
+  ],
+  "alligator": [
+    "src/64x64/alligator.png",
+    "src/128x128/alligator.png"
+  ],
+  "amarok": [
+    "src/64x64/amarok.png",
+    "src/128x128/amarok.png"
+  ],
+  "amberol": [
+    "src/64x64/amberol.png",
+    "src/128x128/amberol.png"
+  ],
+  "angelfish": [
+    "src/64x64/angelfish.png",
+    "src/128x128/angelfish.png"
+  ],
+  "anki": [
+    "src/64x64/anki.png",
+    "src/128x128/anki.png"
+  ],
+  "antimicrox": [
+    "src/64x64/antimicrox.png",
+    "src/128x128/antimicrox.png"
+  ],
+  "appstream-glib": [],
+  "ardour": [
+    "src/64x64/ardour.png",
+    "src/128x128/ardour.png"
+  ],
+  "arianna": [
+    "src/64x64/arianna.png",
+    "src/128x128/arianna.png"
+  ],
+  "ark": [],
+  "artikulate": [],
+  "astromenace": [
+    "src/64x64/astromenace.png",
+    "src/128x128/astromenace.png"
+  ],
+  "atomix": [
+    "src/64x64/atomix.png",
+    "src/128x128/atomix.png"
+  ],
+  "audacious": [
+    "src/64x64/audacious.png",
+    "src/128x128/audacious.png"
+  ],
+  "audiotube": [
+    "src/64x64/audiotube.png",
+    "src/128x128/audiotube.png"
+  ],
+  "augustus": [
+    "src/64x64/augustus.png",
+    "src/128x128/augustus.png"
+  ],
+  "authenticator": [
+    "src/64x64/authenticator.png",
+    "src/128x128/authenticator.png"
+  ],
+  "bazaar": [
+    "src/64x64/bazaar.png",
+    "src/128x128/bazaar.png"
+  ],
+  "bibletime": [
+    "src/64x64/bibletime.png",
+    "src/128x128/bibletime.png"
+  ],
+  "bitwarden": [
+    "src/64x64/bitwarden.png",
+    "src/128x128/bitwarden.png"
+  ],
+  "blinken": [],
+  "bluefish": [
+    "src/64x64/bluefish.png",
+    "src/128x128/bluefish.png"
+  ],
+  "blurble": [
+    "src/64x64/blurble.png",
+    "src/128x128/blurble.png"
+  ],
+  "bomber": [
+    "src/64x64/bomber.png",
+    "src/128x128/bomber.png"
+  ],
+  "bookworm": [
+    "src/64x64/bookworm.png",
+    "src/128x128/bookworm.png"
+  ],
+  "bovo": [
+    "src/64x64/bovo.png",
+    "src/128x128/bovo.png"
+  ],
+  "brasero": [
+    "src/64x64/brasero.png",
+    "src/128x128/brasero.png"
+  ],
+  "calibre": [
+    "src/64x64/calibre.png",
+    "src/128x128/calibre.png"
+  ],
+  "calligra": [
+    "src/64x64/calligra.png",
+    "src/128x128/calligra.png"
+  ],
+  "cantor": [],
+  "carla": [
+    "src/64x64/carla.png",
+    "src/128x128/carla.png"
+  ],
+  "celluloid": [
+    "src/64x64/celluloid.png",
+    "src/128x128/celluloid.png"
+  ],
+  "ciano": [
+    "src/64x64/ciano.png",
+    "src/128x128/ciano.png"
+  ],
+  "citations": [
+    "src/64x64/citations.png",
+    "src/128x128/citations.png"
+  ],
+  "clairvoyant": [
+    "src/64x64/clairvoyant.png",
+    "src/128x128/clairvoyant.png"
+  ],
+  "clapper": [
+    "src/64x64/clapper.png",
+    "src/128x128/clapper.png"
+  ],
+  "claws-mail": [
+    "src/64x64/claws-mail.png",
+    "src/128x128/claws-mail.png"
+  ],
+  "clinfo": [],
+  "cockatrice": [
+    "src/64x64/cockatrice.png",
+    "src/128x128/cockatrice.png"
+  ],
+  "collision": [
+    "src/64x64/collision.png",
+    "src/128x128/collision.png"
+  ],
+  "contrast": [
+    "src/64x64/contrast.png",
+    "src/128x128/contrast.png"
+  ],
+  "converseen": [
+    "src/64x64/converseen.png",
+    "src/128x128/converseen.png"
+  ],
+  "copyq": [],
+  "cpu-x": [
+    "src/64x64/cpu-x.png",
+    "src/128x128/cpu-x.png"
+  ],
+  "d-spy": [
+    "src/64x64/d-spy.png",
+    "src/128x128/d-spy.png"
+  ],
+  "darktable": [
+    "src/64x64/darktable.png",
+    "src/128x128/darktable.png"
+  ],
+  "datovka": [
+    "src/64x64/datovka.png",
+    "src/128x128/datovka.png"
+  ],
+  "decoder": [
+    "src/64x64/decoder.png",
+    "src/128x128/decoder.png"
+  ],
+  "delfin": [
+    "src/64x64/delfin.png",
+    "src/128x128/delfin.png"
+  ],
+  "deskflow": [
+    "src/64x64/deskflow.png",
+    "src/128x128/deskflow.png"
+  ],
+  "desmume": [
+    "src/64x64/desmume.png",
+    "src/128x128/desmume.png"
+  ],
+  "digikam": [],
+  "dino": [
+    "src/64x64/dino.png",
+    "src/128x128/dino.png"
+  ],
+  "dolphin": [],
+  "dosbox": [
+    "src/64x64/dosbox.png",
+    "src/128x128/dosbox.png"
+  ],
+  "easytag": [
+    "src/64x64/easytag.png",
+    "src/128x128/easytag.png"
+  ],
+  "eigen": [
+    "src/64x64/eigen.png",
+    "src/128x128/eigen.png"
+  ],
+  "elastic": [
+    "src/64x64/elastic.png",
+    "src/128x128/elastic.png"
+  ],
+  "elisa": [],
+  "emblem": [
+    "src/64x64/emblem.png",
+    "src/128x128/emblem.png"
+  ],
+  "emptyepsilon": [
+    "src/64x64/emptyepsilon.png",
+    "src/128x128/emptyepsilon.png"
+  ],
+  "enigma": [
+    "src/64x64/enigma.png",
+    "src/128x128/enigma.png"
+  ],
+  "evolution": [],
+  "eyedropper": [
+    "src/64x64/eyedropper.png",
+    "src/128x128/eyedropper.png"
+  ],
+  "f3d": [
+    "src/64x64/f3d.png",
+    "src/128x128/f3d.png"
+  ],
+  "falkon": [],
+  "filelight": [],
+  "filezilla": [
+    "src/64x64/filezilla.png",
+    "src/128x128/filezilla.png"
+  ],
+  "flameshot": [
+    "src/64x64/flameshot.png",
+    "src/128x128/flameshot.png"
+  ],
+  "flips": [
+    "src/64x64/flips.png",
+    "src/128x128/flips.png"
+  ],
+  "focuswriter": [
+    "src/64x64/focuswriter.png",
+    "src/128x128/focuswriter.png"
+  ],
+  "fontforge": [
+    "src/64x64/fontforge.png",
+    "src/128x128/fontforge.png"
+  ],
+  "foot": [
+    "src/64x64/foot.png",
+    "src/128x128/foot.png"
+  ],
+  "four-in-a-row": [
+    "src/64x64/four-in-a-row.png",
+    "src/128x128/four-in-a-row.png"
+  ],
+  "fractal": [
+    "src/64x64/fractal.png",
+    "src/128x128/fractal.png"
+  ],
+  "fragments": [
+    "src/64x64/fragments.png",
+    "src/128x128/fragments.png"
+  ],
+  "francis": [
+    "src/64x64/francis.png",
+    "src/128x128/francis.png"
+  ],
+  "freeorion": [
+    "src/64x64/freeorion.png",
+    "src/128x128/freeorion.png"
+  ],
+  "fretboard": [
+    "src/64x64/fretboard.png",
+    "src/128x128/fretboard.png"
+  ],
+  "frogr": [
+    "src/64x64/frogr.png",
+    "src/128x128/frogr.png"
+  ],
+  "fs-uae": [
+    "src/64x64/fs-uae.png",
+    "src/128x128/fs-uae.png"
+  ],
+  "furnace": [
+    "src/64x64/furnace.png",
+    "src/128x128/furnace.png"
+  ],
+  "fwupd": [],
+  "geany": [
+    "src/64x64/geany.png",
+    "src/128x128/geany.png"
+  ],
+  "geary": [],
+  "gedit": [],
+  "gephi": [
+    "src/64x64/gephi.png",
+    "src/128x128/gephi.png"
+  ],
+  "ghex": [
+    "src/64x64/ghex.png",
+    "src/128x128/ghex.png"
+  ],
+  "ghidra": [
+    "src/64x64/ghidra.png",
+    "src/128x128/ghidra.png"
+  ],
+  "ghostwriter": [],
+  "glabels": [
+    "src/64x64/glabels.png",
+    "src/128x128/glabels.png"
+  ],
+  "glaxnimate": [
+    "src/64x64/glaxnimate.png",
+    "src/128x128/glaxnimate.png"
+  ],
+  "glide": [
+    "src/64x64/glide.png",
+    "src/128x128/glide.png"
+  ],
+  "gnote": [
+    "src/64x64/gnote.png",
+    "src/128x128/gnote.png"
+  ],
+  "gnucash": [
+    "src/64x64/gnucash.png",
+    "src/128x128/gnucash.png"
+  ],
+  "gobby": [
+    "src/64x64/gobby.png",
+    "src/128x128/gobby.png"
+  ],
+  "goverlay": [
+    "src/64x64/goverlay.png",
+    "src/128x128/goverlay.png"
+  ],
+  "goxel": [
+    "src/64x64/goxel.png",
+    "src/128x128/goxel.png"
+  ],
+  "gqrx": [
+    "src/64x64/gqrx.png",
+    "src/128x128/gqrx.png"
+  ],
+  "grafx2": [
+    "src/64x64/grafx2.png",
+    "src/128x128/grafx2.png"
+  ],
+  "granatier": [
+    "src/64x64/granatier.png",
+    "src/128x128/granatier.png"
+  ],
+  "graphs": [
+    "src/64x64/graphs.png",
+    "src/128x128/graphs.png"
+  ],
+  "gtkwave": [
+    "src/64x64/gtkwave.png",
+    "src/128x128/gtkwave.png"
+  ],
+  "guitarix": [
+    "src/64x64/guitarix.png",
+    "src/128x128/guitarix.png"
+  ],
+  "gummi": [
+    "src/64x64/gummi.png",
+    "src/128x128/gummi.png"
+  ],
+  "gwenview": [],
+  "halloy": [
+    "src/64x64/halloy.png",
+    "src/128x128/halloy.png"
+  ],
+  "hana": [
+    "src/64x64/hana.png",
+    "src/128x128/hana.png"
+  ],
+  "handbrake": [
+    "src/64x64/handbrake.png",
+    "src/128x128/handbrake.png"
+  ],
+  "haruna": [
+    "src/64x64/haruna.png",
+    "src/128x128/haruna.png"
+  ],
+  "hatari": [
+    "src/64x64/hatari.png",
+    "src/128x128/hatari.png"
+  ],
+  "health": [
+    "src/64x64/health.png",
+    "src/128x128/health.png"
+  ],
+  "helix": [
+    "src/64x64/helix.png",
+    "src/128x128/helix.png"
+  ],
+  "hieroglyphic": [
+    "src/64x64/hieroglyphic.png",
+    "src/128x128/hieroglyphic.png"
+  ],
+  "hitori": [
+    "src/64x64/hitori.png",
+    "src/128x128/hitori.png"
+  ],
+  "homebank": [
+    "src/64x64/homebank.png",
+    "src/128x128/homebank.png"
+  ],
+  "htmldoc": [
+    "src/64x64/htmldoc.png",
+    "src/128x128/htmldoc.png"
+  ],
+  "hugin": [
+    "src/64x64/hugin.png",
+    "src/128x128/hugin.png"
+  ],
+  "hydrogen": [
+    "src/64x64/hydrogen.png",
+    "src/128x128/hydrogen.png"
+  ],
+  "i2pd": [
+    "src/64x64/i2pd.png",
+    "src/128x128/i2pd.png"
+  ],
+  "iaito": [
+    "src/64x64/iaito.png",
+    "src/128x128/iaito.png"
+  ],
+  "identity": [
+    "src/64x64/identity.png",
+    "src/128x128/identity.png"
+  ],
+  "impression": [
+    "src/64x64/impression.png",
+    "src/128x128/impression.png"
+  ],
+  "inkscape": [
+    "src/64x64/inkscape.png",
+    "src/128x128/inkscape.png"
+  ],
+  "iptux": [
+    "src/64x64/iptux.png",
+    "src/128x128/iptux.png"
+  ],
+  "jacktrip": [
+    "src/64x64/jacktrip.png",
+    "src/128x128/jacktrip.png"
+  ],
+  "juk": [],
+  "julius": [
+    "src/64x64/julius.png",
+    "src/128x128/julius.png"
+  ],
+  "kaffeine": [],
+  "kaidan": [
+    "src/64x64/kaidan.png",
+    "src/128x128/kaidan.png"
+  ],
+  "kalgebra": [
+    "src/64x64/kalgebra.png",
+    "src/128x128/kalgebra.png"
+  ],
+  "kalm": [
+    "src/64x64/kalm.png",
+    "src/128x128/kalm.png"
+  ],
+  "kalzium": [],
+  "kamoso": [],
+  "kanagram": [],
+  "kapman": [
+    "src/64x64/kapman.png",
+    "src/128x128/kapman.png"
+  ],
+  "kasts": [
+    "src/64x64/kasts.png",
+    "src/128x128/kasts.png"
+  ],
+  "kate": [],
+  "katomic": [
+    "src/64x64/katomic.png",
+    "src/128x128/katomic.png"
+  ],
+  "kbibtex": [],
+  "kblackbox": [
+    "src/64x64/kblackbox.png",
+    "src/128x128/kblackbox.png"
+  ],
+  "kblocks": [
+    "src/64x64/kblocks.png",
+    "src/128x128/kblocks.png"
+  ],
+  "kbounce": [
+    "src/64x64/kbounce.png",
+    "src/128x128/kbounce.png"
+  ],
+  "kbreakout": [
+    "src/64x64/kbreakout.png",
+    "src/128x128/kbreakout.png"
+  ],
+  "kbruch": [],
+  "kcachegrind": [],
+  "kcalc": [],
+  "kcharselect": [
+    "src/64x64/kcharselect.png",
+    "src/128x128/kcharselect.png"
+  ],
+  "kcolorchooser": [],
+  "kdenlive": [],
+  "kdevelop": [],
+  "kdiamond": [
+    "src/64x64/kdiamond.png",
+    "src/128x128/kdiamond.png"
+  ],
+  "kdiff3": [],
+  "kdiskmark": [
+    "src/64x64/kdiskmark.png",
+    "src/128x128/kdiskmark.png"
+  ],
+  "keepassxc": [],
+  "keysmith": [
+    "src/64x64/keysmith.png",
+    "src/128x128/keysmith.png"
+  ],
+  "kfind": [
+    "src/64x64/kfind.png",
+    "src/128x128/kfind.png"
+  ],
+  "kfourinline": [
+    "src/64x64/kfourinline.png",
+    "src/128x128/kfourinline.png"
+  ],
+  "kgeography": [],
+  "kgeotag": [
+    "src/64x64/kgeotag.png",
+    "src/128x128/kgeotag.png"
+  ],
+  "kget": [
+    "src/64x64/kget.png",
+    "src/128x128/kget.png"
+  ],
+  "kgoldrunner": [
+    "src/64x64/kgoldrunner.png",
+    "src/128x128/kgoldrunner.png"
+  ],
+  "kgraphviewer": [],
+  "khangman": [],
+  "kicad": [
+    "src/64x64/kicad.png",
+    "src/128x128/kicad.png"
+  ],
+  "kid3": [
+    "src/64x64/kid3.png",
+    "src/128x128/kid3.png"
+  ],
+  "kig": [],
+  "kigo": [
+    "src/64x64/kigo.png",
+    "src/128x128/kigo.png"
+  ],
+  "kile": [
+    "src/64x64/kile.png",
+    "src/128x128/kile.png"
+  ],
+  "killbots": [
+    "src/64x64/killbots.png",
+    "src/128x128/killbots.png"
+  ],
+  "kimagemapeditor": [],
+  "kiriki": [
+    "src/64x64/kiriki.png",
+    "src/128x128/kiriki.png"
+  ],
+  "kiten": [],
+  "kjumpingcube": [
+    "src/64x64/kjumpingcube.png",
+    "src/128x128/kjumpingcube.png"
+  ],
+  "klavaro": [
+    "src/64x64/klavaro.png",
+    "src/128x128/klavaro.png"
+  ],
+  "klayout": [
+    "src/64x64/klayout.png",
+    "src/128x128/klayout.png"
+  ],
+  "kleopatra": [
+    "src/64x64/kleopatra.png",
+    "src/128x128/kleopatra.png"
+  ],
+  "klettres": [],
+  "klevernotes": [
+    "src/64x64/klevernotes.png",
+    "src/128x128/klevernotes.png"
+  ],
+  "klickety": [
+    "src/64x64/klickety.png",
+    "src/128x128/klickety.png"
+  ],
+  "kmahjongg": [
+    "src/64x64/kmahjongg.png",
+    "src/128x128/kmahjongg.png"
+  ],
+  "kmines": [
+    "src/64x64/kmines.png",
+    "src/128x128/kmines.png"
+  ],
+  "kmplot": [],
+  "kmymoney": [],
+  "knetwalk": [
+    "src/64x64/knetwalk.png",
+    "src/128x128/knetwalk.png"
+  ],
+  "knights": [
+    "src/64x64/knights.png",
+    "src/128x128/knights.png"
+  ],
+  "kolf": [
+    "src/64x64/kolf.png",
+    "src/128x128/kolf.png"
+  ],
+  "kollision": [
+    "src/64x64/kollision.png",
+    "src/128x128/kollision.png"
+  ],
+  "kolourpaint": [],
+  "kommit": [],
+  "komodo": [
+    "src/64x64/komodo.png",
+    "src/128x128/komodo.png"
+  ],
+  "kompare": [],
+  "kongress": [],
+  "konquest": [
+    "src/64x64/konquest.png",
+    "src/128x128/konquest.png"
+  ],
+  "konsole": [],
+  "kontact": [
+    "src/64x64/kontact.png",
+    "src/128x128/kontact.png"
+  ],
+  "kontrast": [
+    "src/64x64/kontrast.png",
+    "src/128x128/kontrast.png"
+  ],
+  "konversation": [],
+  "kooha": [
+    "src/64x64/kooha.png",
+    "src/128x128/kooha.png"
+  ],
+  "kphotoalbum": [
+    "src/64x64/kphotoalbum.png",
+    "src/128x128/kphotoalbum.png"
+  ],
+  "krdc": [],
+  "krename": [],
+  "kreversi": [
+    "src/64x64/kreversi.png",
+    "src/128x128/kreversi.png"
+  ],
+  "krita": [
+    "src/64x64/krita.png",
+    "src/128x128/krita.png"
+  ],
+  "kronometer": [
+    "src/64x64/kronometer.png",
+    "src/128x128/kronometer.png"
+  ],
+  "kruler": [],
+  "kshisen": [
+    "src/64x64/kshisen.png",
+    "src/128x128/kshisen.png"
+  ],
+  "ksirk": [
+    "src/64x64/ksirk.png",
+    "src/128x128/ksirk.png"
+  ],
+  "ksnakeduel": [
+    "src/64x64/ksnakeduel.png",
+    "src/128x128/ksnakeduel.png"
+  ],
+  "ksnip": [
+    "src/64x64/ksnip.png",
+    "src/128x128/ksnip.png"
+  ],
+  "ksquares": [
+    "src/64x64/ksquares.png",
+    "src/128x128/ksquares.png"
+  ],
+  "kstars": [],
+  "ksudoku": [
+    "src/64x64/ksudoku.png",
+    "src/128x128/ksudoku.png"
+  ],
+  "kteatime": [],
+  "ktorrent": [],
+  "ktouch": [],
+  "ktrip": [
+    "src/64x64/ktrip.png",
+    "src/128x128/ktrip.png"
+  ],
+  "ktuberling": [
+    "src/64x64/ktuberling.png",
+    "src/128x128/ktuberling.png"
+  ],
+  "kturtle": [],
+  "kubrick": [
+    "src/64x64/kubrick.png",
+    "src/128x128/kubrick.png"
+  ],
+  "kvirc": [
+    "src/64x64/kvirc.png",
+    "src/128x128/kvirc.png"
+  ],
+  "kwalletmanager": [
+    "src/64x64/kwalletmanager.png",
+    "src/128x128/kwalletmanager.png"
+  ],
+  "kwave": [
+    "src/64x64/kwave.png",
+    "src/128x128/kwave.png"
+  ],
+  "labplot": [
+    "src/64x64/labplot.png",
+    "src/128x128/labplot.png"
+  ],
+  "lact": [
+    "src/64x64/lact.png",
+    "src/128x128/lact.png"
+  ],
+  "leocad": [
+    "src/64x64/leocad.png",
+    "src/128x128/leocad.png"
+  ],
+  "librecad": [
+    "src/64x64/librecad.png",
+    "src/128x128/librecad.png"
+  ],
+  "libresprite": [
+    "src/64x64/libresprite.png",
+    "src/128x128/libresprite.png"
+  ],
+  "lifeograph": [
+    "src/64x64/lifeograph.png",
+    "src/128x128/lifeograph.png"
+  ],
+  "liferea": [
+    "src/64x64/liferea.png",
+    "src/128x128/liferea.png"
+  ],
+  "lokalize": [
+    "src/64x64/lokalize.png",
+    "src/128x128/lokalize.png"
+  ],
+  "lorem": [
+    "src/64x64/lorem.png",
+    "src/128x128/lorem.png"
+  ],
+  "lskat": [
+    "src/64x64/lskat.png",
+    "src/128x128/lskat.png"
+  ],
+  "luanti": [
+    "src/64x64/luanti.png",
+    "src/128x128/luanti.png"
+  ],
+  "manuals": [
+    "src/64x64/manuals.png",
+    "src/128x128/manuals.png"
+  ],
+  "marble": [],
+  "marknote": [
+    "src/64x64/marknote.png",
+    "src/128x128/marknote.png"
+  ],
+  "massif-visualizer": [
+    "src/64x64/massif-visualizer.png",
+    "src/128x128/massif-visualizer.png"
+  ],
+  "mattermost": [
+    "src/64x64/mattermost.png",
+    "src/128x128/mattermost.png"
+  ],
+  "mediainfo": [
+    "src/64x64/mediainfo.png",
+    "src/128x128/mediainfo.png"
+  ],
+  "megaglest": [
+    "src/64x64/megaglest.png",
+    "src/128x128/megaglest.png"
+  ],
+  "merkuro": [
+    "src/64x64/merkuro.png",
+    "src/128x128/merkuro.png"
+  ],
+  "metronome": [
+    "src/64x64/metronome.png",
+    "src/128x128/metronome.png"
+  ],
+  "milkytracker": [
+    "src/64x64/milkytracker.png",
+    "src/128x128/milkytracker.png"
+  ],
+  "minder": [
+    "src/64x64/minder.png",
+    "src/128x128/minder.png"
+  ],
+  "minuet": [],
+  "moserial": [
+    "src/64x64/moserial.png",
+    "src/128x128/moserial.png"
+  ],
+  "mosh": [],
+  "mousai": [
+    "src/64x64/mousai.png",
+    "src/128x128/mousai.png"
+  ],
+  "mousepad": [
+    "src/64x64/mousepad.png",
+    "src/128x128/mousepad.png"
+  ],
+  "mpv": [
+    "src/64x64/mpv.png",
+    "src/128x128/mpv.png"
+  ],
+  "mumble": [
+    "src/64x64/mumble.png",
+    "src/128x128/mumble.png"
+  ],
+  "muse": [
+    "src/64x64/muse.png",
+    "src/128x128/muse.png"
+  ],
+  "musescore": [
+    "src/64x64/musescore.png",
+    "src/128x128/musescore.png"
+  ],
+  "mypaint": [
+    "src/64x64/mypaint.png",
+    "src/128x128/mypaint.png"
+  ],
+  "naev": [
+    "src/64x64/naev.png",
+    "src/128x128/naev.png"
+  ],
+  "ncspot": [
+    "src/64x64/ncspot.png",
+    "src/128x128/ncspot.png"
+  ],
+  "neochat": [
+    "src/64x64/neochat.png",
+    "src/128x128/neochat.png"
+  ],
+  "neovide": [
+    "src/64x64/neovide.png",
+    "src/128x128/neovide.png"
+  ],
+  "neovim": [
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "newsflash": [
+    "src/64x64/newsflash.png",
+    "src/128x128/newsflash.png"
+  ],
+  "nheko": [
+    "src/64x64/nheko.png",
+    "src/128x128/nheko.png"
+  ],
+  "nuspell": [],
+  "nyxt": [
+    "src/64x64/nyxt.png",
+    "src/128x128/nyxt.png"
+  ],
+  "obfuscate": [
+    "src/64x64/obfuscate.png",
+    "src/128x128/obfuscate.png"
+  ],
+  "oculante": [
+    "src/64x64/oculante.png",
+    "src/128x128/oculante.png"
+  ],
+  "okteta": [],
+  "okular": [],
+  "openmw": [
+    "src/64x64/openmw.png",
+    "src/128x128/openmw.png"
+  ],
+  "openrgb": [
+    "src/64x64/openrgb.png",
+    "src/128x128/openrgb.png"
+  ],
+  "openscad": [
+    "src/64x64/openscad.png",
+    "src/128x128/openscad.png"
+  ],
+  "opentoonz": [
+    "src/64x64/opentoonz.png",
+    "src/128x128/opentoonz.png"
+  ],
+  "openttd": [
+    "src/64x64/openttd.png",
+    "src/128x128/openttd.png"
+  ],
+  "optiimage": [
+    "src/64x64/optiimage.png",
+    "src/128x128/optiimage.png"
+  ],
+  "palapeli": [
+    "src/64x64/palapeli.png",
+    "src/128x128/palapeli.png"
+  ],
+  "paraview": [
+    "src/64x64/paraview.png",
+    "src/128x128/paraview.png"
+  ],
+  "parley": [],
+  "photoflare": [
+    "src/64x64/photoflare.png",
+    "src/128x128/photoflare.png"
+  ],
+  "picmi": [
+    "src/64x64/picmi.png",
+    "src/128x128/picmi.png"
+  ],
+  "pioneer": [
+    "src/64x64/pioneer.png",
+    "src/128x128/pioneer.png"
+  ],
+  "pitivi": [
+    "src/64x64/pitivi.png",
+    "src/128x128/pitivi.png"
+  ],
+  "plasmatube": [
+    "src/64x64/plasmatube.png",
+    "src/128x128/plasmatube.png"
+  ],
+  "poedit": [
+    "src/64x64/poedit.png",
+    "src/128x128/poedit.png"
+  ],
+  "polari": [],
+  "polyphone": [
+    "src/64x64/polyphone.png",
+    "src/128x128/polyphone.png"
+  ],
+  "ppsspp": [
+    "src/64x64/ppsspp.png",
+    "src/128x128/ppsspp.png"
+  ],
+  "progress": [
+    "src/64x64/progress.png",
+    "src/128x128/progress.png"
+  ],
+  "projectm": [
+    "src/64x64/projectm.png",
+    "src/128x128/projectm.png"
+  ],
+  "ptyxis": [
+    "src/64x64/ptyxis.png",
+    "src/128x128/ptyxis.png"
+  ],
+  "putty": [
+    "src/64x64/putty.png",
+    "src/128x128/putty.png"
+  ],
+  "qflipper": [
+    "src/64x64/qflipper.png",
+    "src/128x128/qflipper.png"
+  ],
+  "qgit": [
+    "src/64x64/qgit.png",
+    "src/128x128/qgit.png"
+  ],
+  "qmlkonsole": [
+    "src/64x64/qmlkonsole.png",
+    "src/128x128/qmlkonsole.png"
+  ],
+  "qmmp": [
+    "src/64x64/qmmp.png",
+    "src/128x128/qmmp.png"
+  ],
+  "qnapi": [
+    "src/64x64/qnapi.png",
+    "src/128x128/qnapi.png"
+  ],
+  "qpwgraph": [
+    "src/64x64/qpwgraph.png",
+    "src/128x128/qpwgraph.png"
+  ],
+  "qsynth": [
+    "src/64x64/qsynth.png",
+    "src/128x128/qsynth.png"
+  ],
+  "qtractor": [
+    "src/64x64/qtractor.png",
+    "src/128x128/qtractor.png"
+  ],
+  "quadrapassel": [
+    "src/64x64/quadrapassel.png",
+    "src/128x128/quadrapassel.png"
+  ],
+  "racket": [
+    "src/64x64/racket.png",
+    "src/128x128/racket.png"
+  ],
+  "railway": [
+    "src/64x64/railway.png",
+    "src/128x128/railway.png"
+  ],
+  "readest": [
+    "src/64x64/readest.png",
+    "src/128x128/readest.png"
+  ],
+  "recoll": [
+    "src/64x64/recoll.png",
+    "src/128x128/recoll.png"
+  ],
+  "remmina": [
+    "src/64x64/remmina.png",
+    "src/128x128/remmina.png"
+  ],
+  "resources": [
+    "src/64x64/resources.png",
+    "src/128x128/resources.png"
+  ],
+  "retroarch": [
+    "src/64x64/retroarch.png",
+    "src/128x128/retroarch.png"
+  ],
+  "rhythmbox": [],
+  "riff": [
+    "src/64x64/riff.png",
+    "src/128x128/riff.png"
+  ],
+  "rio": [
+    "src/64x64/rio.png",
+    "src/128x128/rio.png"
+  ],
+  "ristretto": [
+    "src/64x64/ristretto.png",
+    "src/128x128/ristretto.png"
+  ],
+  "rnote": [
+    "src/64x64/rnote.png",
+    "src/128x128/rnote.png"
+  ],
+  "rocs": [],
+  "root": [
+    "src/64x64/root.png",
+    "src/128x128/root.png"
+  ],
+  "rosegarden": [
+    "src/64x64/rosegarden.png",
+    "src/128x128/rosegarden.png"
+  ],
+  "scite": [
+    "src/64x64/scite.png",
+    "src/128x128/scite.png"
+  ],
+  "scribus": [
+    "src/64x64/scribus.png",
+    "src/128x128/scribus.png"
+  ],
+  "scummvm": [
+    "src/64x64/scummvm.png",
+    "src/128x128/scummvm.png"
+  ],
+  "selene": [
+    "src/64x64/selene.png",
+    "src/128x128/selene.png"
+  ],
+  "shortwave": [
+    "src/64x64/shortwave.png",
+    "src/128x128/shortwave.png"
+  ],
+  "shotcut": [
+    "src/64x64/shotcut.png",
+    "src/128x128/shotcut.png"
+  ],
+  "shotwell": [],
+  "sigil": [
+    "src/64x64/sigil.png",
+    "src/128x128/sigil.png"
+  ],
+  "simutrans": [
+    "src/64x64/simutrans.png",
+    "src/128x128/simutrans.png"
+  ],
+  "skanlite": [],
+  "skanpage": [],
+  "skrooge": [
+    "src/64x64/skrooge.png",
+    "src/128x128/skrooge.png"
+  ],
+  "smplayer": [
+    "src/64x64/smplayer.png",
+    "src/128x128/smplayer.png"
+  ],
+  "snes9x": [
+    "src/64x64/snes9x.png",
+    "src/128x128/snes9x.png"
+  ],
+  "snowball": [
+    "src/64x64/snowball.png",
+    "src/128x128/snowball.png"
+  ],
+  "solanum": [
+    "src/64x64/solanum.png",
+    "src/128x128/solanum.png"
+  ],
+  "songrec": [
+    "src/64x64/songrec.png",
+    "src/128x128/songrec.png"
+  ],
+  "speedcrunch": [
+    "src/64x64/speedcrunch.png",
+    "src/128x128/speedcrunch.png"
+  ],
+  "spice-up": [
+    "src/64x64/spice-up.png",
+    "src/128x128/spice-up.png"
+  ],
+  "stella": [
+    "src/64x64/stella.png",
+    "src/128x128/stella.png"
+  ],
+  "stellarium": [
+    "src/64x64/stellarium.png",
+    "src/128x128/stellarium.png"
+  ],
+  "supertuxkart": [
+    "src/64x64/supertuxkart.png",
+    "src/128x128/supertuxkart.png"
+  ],
+  "swi-prolog": [
+    "src/64x64/swi-prolog.png",
+    "src/128x128/swi-prolog.png"
+  ],
+  "switcheroo": [
+    "src/64x64/switcheroo.png",
+    "src/128x128/switcheroo.png"
+  ],
+  "tali": [
+    "src/64x64/tali.png",
+    "src/128x128/tali.png"
+  ],
+  "teeworlds": [
+    "src/64x64/teeworlds.png",
+    "src/128x128/teeworlds.png"
+  ],
+  "tellico": [],
+  "tempo": [
+    "src/64x64/tempo.png",
+    "src/128x128/tempo.png"
+  ],
+  "tenacity": [
+    "src/64x64/tenacity.png",
+    "src/128x128/tenacity.png"
+  ],
+  "tesseract": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "texmaker": [
+    "src/64x64/texmaker.png",
+    "src/128x128/texmaker.png"
+  ],
+  "texstudio": [
+    "src/64x64/texstudio.png",
+    "src/128x128/texstudio.png"
+  ],
+  "tiled": [],
+  "tipp10": [
+    "src/64x64/tipp10.png",
+    "src/128x128/tipp10.png"
+  ],
+  "tokodon": [
+    "src/64x64/tokodon.png",
+    "src/128x128/tokodon.png"
+  ],
+  "tuba": [
+    "src/64x64/tuba.png",
+    "src/128x128/tuba.png"
+  ],
+  "typography": [
+    "src/64x64/typography.png",
+    "src/128x128/typography.png"
+  ],
+  "uget": [
+    "src/64x64/uget.png",
+    "src/128x128/uget.png"
+  ],
+  "umbrello": [],
+  "unison": [
+    "src/64x64/unison.png",
+    "src/128x128/unison.png"
+  ],
+  "vdpauinfo": [],
+  "viking": [
+    "src/64x64/viking.png",
+    "src/128x128/viking.png"
+  ],
+  "vim": [],
+  "vivaldi": [
+    "src/64x64/vivaldi.png",
+    "src/128x128/vivaldi.png"
+  ],
+  "vlc": [
+    "src/64x64/vlc.png",
+    "src/128x128/vlc.png"
+  ],
+  "vmpk": [
+    "src/64x64/vmpk.png",
+    "src/128x128/vmpk.png"
+  ],
+  "vvave": [],
+  "vym": [
+    "src/64x64/vym.png",
+    "src/128x128/vym.png"
+  ],
+  "waifu2x-ncnn-vulkan": [],
+  "warp": [
+    "src/64x64/warp.png",
+    "src/128x128/warp.png"
+  ],
+  "warsow": [
+    "src/64x64/warsow.png",
+    "src/128x128/warsow.png"
+  ],
+  "waycheck": [
+    "src/64x64/waycheck.png",
+    "src/128x128/waycheck.png"
+  ],
+  "widelands": [
+    "src/64x64/widelands.png",
+    "src/128x128/widelands.png"
+  ],
+  "wildcard": [
+    "src/64x64/wildcard.png",
+    "src/128x128/wildcard.png"
+  ],
+  "wine": [
+    "src/64x64/wine.png",
+    "src/128x128/wine.png"
+  ],
+  "xaos": [
+    "src/64x64/xaos.png",
+    "src/128x128/xaos.png"
+  ],
+  "xca": [
+    "src/64x64/xca.png",
+    "src/128x128/xca.png"
+  ],
+  "xiphos": [
+    "src/64x64/xiphos.png",
+    "src/128x128/xiphos.png"
+  ],
+  "xonotic": [
+    "src/64x64/xonotic.png",
+    "src/128x128/xonotic.png"
+  ],
+  "yakuake": [],
+  "yass": [
+    "src/64x64/yass.png",
+    "src/128x128/yass.png"
+  ],
+  "zaz": [
+    "src/64x64/zaz.png",
+    "src/128x128/zaz.png"
+  ],
+  "zeal": [
+    "src/64x64/zeal.png",
+    "src/128x128/zeal.png"
+  ],
+  "zed": [
+    "src/64x64/zed.png",
+    "src/128x128/zed.png"
+  ],
+  "zettlr": [
+    "src/64x64/zettlr.png",
+    "src/128x128/zettlr.png"
+  ],
+  "zola": [],
+  "cryptomator": [
+    "src/64x64/cryptomator.png",
+    "src/128x128/cryptomator.png"
+  ],
+  "equibop": [
+    "src/64x64/equibop.png",
+    "src/128x128/equibop.png"
+  ],
+  "freefilesync": [],
+  "freetube": [
+    "src/64x64/freetube.png",
+    "src/128x128/freetube.png"
+  ],
+  "joplin": [
+    "src/64x64/joplin.png",
+    "src/128x128/joplin.png"
+  ],
+  "kopia": [
+    "src/64x64/kopia.png",
+    "src/128x128/kopia.png"
+  ],
+  "localsend": [
+    "src/64x64/localsend.png",
+    "src/128x128/localsend.png"
+  ],
+  "mailspring": [
+    "src/64x64/mailspring.png",
+    "src/128x128/mailspring.png"
+  ],
+  "opentabletdriver": [
+    "src/64x64/opentabletdriver.png",
+    "src/128x128/opentabletdriver.png"
+  ],
+  "popsicle": [
+    "src/64x64/popsicle.png",
+    "src/128x128/popsicle.png"
+  ],
+  "protonplus": [
+    "src/64x64/protonplus.png",
+    "src/128x128/protonplus.png"
+  ],
+  "protonup-qt": [
+    "src/64x64/protonup-qt.png",
+    "src/128x128/protonup-qt.png"
+  ],
+  "pwvucontrol": [
+    "src/64x64/pwvucontrol.png",
+    "src/128x128/pwvucontrol.png"
+  ],
+  "rare": [
+    "src/64x64/rare.png",
+    "src/128x128/rare.png"
+  ],
+  "sunshine": [
+    "src/64x64/sunshine.png",
+    "src/128x128/sunshine.png"
+  ],
+  "tribler": [
+    "src/64x64/tribler.png",
+    "src/128x128/tribler.png"
+  ],
+  "vesktop": [
+    "src/64x64/vesktop.png",
+    "src/128x128/vesktop.png"
+  ],
+  "vscodium": [
+    "src/64x64/vscodium.png",
+    "src/128x128/vscodium.png"
+  ],
+  "webcord": [
+    "src/64x64/webcord.png",
+    "src/128x128/webcord.png"
+  ],
+  "zotero": [
+    "src/64x64/zotero.png",
+    "src/128x128/zotero.png"
+  ],
+  "apostrophe": [
+    "src/64x64/apostrophe.png",
+    "src/128x128/apostrophe.png"
+  ],
+  "audacity": [
+    "src/64x64/audacity.png",
+    "src/128x128/audacity.png"
+  ],
+  "bespokesynth": [
+    "src/64x64/bespokesynth.png",
+    "src/128x128/bespokesynth.png"
+  ],
+  "biblioteca": [
+    "src/64x64/biblioteca.png",
+    "src/128x128/biblioteca.png"
+  ],
+  "binary": [
+    "src/64x64/binary.png",
+    "src/128x128/binary.png"
+  ],
+  "blanket": [
+    "src/64x64/blanket.png",
+    "src/128x128/blanket.png"
+  ],
+  "bleachbit": [
+    "src/64x64/bleachbit.png",
+    "src/128x128/bleachbit.png"
+  ],
+  "blender": [
+    "src/64x64/blender.png",
+    "src/128x128/blender.png"
+  ],
+  "bustle": [
+    "src/64x64/bustle.png",
+    "src/128x128/bustle.png"
+  ],
+  "cameractrls": [
+    "src/64x64/cameractrls.png",
+    "src/128x128/cameractrls.png"
+  ],
+  "cartridges": [
+    "src/64x64/cartridges.png",
+    "src/128x128/cartridges.png"
+  ],
+  "cherrytree": [
+    "src/64x64/cherrytree.png",
+    "src/128x128/cherrytree.png"
+  ],
+  "commit": [
+    "src/64x64/commit.png",
+    "src/128x128/commit.png"
+  ],
+  "curtail": [
+    "src/64x64/curtail.png",
+    "src/128x128/curtail.png"
+  ],
+  "cutter": [
+    "src/64x64/cutter.png",
+    "src/128x128/cutter.png"
+  ],
+  "deluge": [
+    "src/64x64/deluge.png",
+    "src/128x128/deluge.png"
+  ],
+  "dialect": [
+    "src/64x64/dialect.png",
+    "src/128x128/dialect.png"
+  ],
+  "diffuse": [
+    "src/64x64/diffuse.png",
+    "src/128x128/diffuse.png"
+  ],
+  "discord": [
+    "src/64x64/discord.png",
+    "src/128x128/discord.png"
+  ],
+  "displaycal": [
+    "src/64x64/displaycal.png",
+    "src/128x128/displaycal.png"
+  ],
+  "drawing": [
+    "src/64x64/drawing.png",
+    "src/128x128/drawing.png"
+  ],
+  "electrum": [
+    "src/64x64/electrum.png",
+    "src/128x128/electrum.png"
+  ],
+  "element": [
+    "src/64x64/element.png",
+    "src/128x128/element.png"
+  ],
+  "endeavour": [
+    "src/64x64/endeavour.png",
+    "src/128x128/endeavour.png"
+  ],
+  "errands": [
+    "src/64x64/errands.png",
+    "src/128x128/errands.png"
+  ],
+  "flatseal": [
+    "src/64x64/flatseal.png",
+    "src/128x128/flatseal.png"
+  ],
+  "flowblade": [
+    "src/64x64/flowblade.png",
+    "src/128x128/flowblade.png"
+  ],
+  "foliate": [
+    "src/64x64/foliate.png",
+    "src/128x128/foliate.png"
+  ],
+  "freecad": [
+    "src/64x64/freecad.png",
+    "src/128x128/freecad.png"
+  ],
+  "freecol": [
+    "src/64x64/freecol.png",
+    "src/128x128/freecol.png"
+  ],
+  "freeplane": [
+    "src/64x64/freeplane.png",
+    "src/128x128/freeplane.png"
+  ],
+  "frescobaldi": [
+    "src/64x64/frescobaldi.png",
+    "src/128x128/frescobaldi.png"
+  ],
+  "gajim": [
+    "src/64x64/gajim.png",
+    "src/128x128/gajim.png"
+  ],
+  "gaphor": [
+    "src/64x64/gaphor.png",
+    "src/128x128/gaphor.png"
+  ],
+  "gaupol": [],
+  "geeqie": [
+    "src/64x64/geeqie.png",
+    "src/128x128/geeqie.png"
+  ],
+  "genius": [
+    "src/64x64/genius.png",
+    "src/128x128/genius.png"
+  ],
+  "geogebra": [
+    "src/64x64/geogebra.png",
+    "src/128x128/geogebra.png"
+  ],
+  "gitg": [
+    "src/64x64/gitg.png",
+    "src/128x128/gitg.png"
+  ],
+  "gpodder": [
+    "src/64x64/gpodder.png",
+    "src/128x128/gpodder.png"
+  ],
+  "gramps": [
+    "src/64x64/gramps.png",
+    "src/128x128/gramps.png"
+  ],
+  "hedgewars": [
+    "src/64x64/hedgewars.png",
+    "src/128x128/hedgewars.png"
+  ],
+  "helvum": [
+    "src/64x64/helvum.png",
+    "src/128x128/helvum.png"
+  ],
+  "httpie": [
+    "src/64x64/httpie.png",
+    "src/128x128/httpie.png"
+  ],
+  "iotas": [
+    "src/64x64/iotas.png",
+    "src/128x128/iotas.png"
+  ],
+  "jadx": [
+    "src/64x64/jadx.png",
+    "src/128x128/jadx.png"
+  ],
+  "josm": [
+    "src/64x64/josm.png",
+    "src/128x128/josm.png"
+  ],
+  "junction": [
+    "src/64x64/junction.png",
+    "src/128x128/junction.png"
+  ],
+  "kodi": [
+    "src/64x64/kodi.png",
+    "src/128x128/kodi.png"
+  ],
+  "komikku": [
+    "src/64x64/komikku.png",
+    "src/128x128/komikku.png"
+  ],
+  "ktimetracker": [
+    "src/64x64/ktimetracker.png",
+    "src/128x128/ktimetracker.png"
+  ],
+  "lapce": [
+    "src/64x64/lapce.png",
+    "src/128x128/lapce.png"
+  ],
+  "lincity-ng": [
+    "src/64x64/lincity-ng.png",
+    "src/128x128/lincity-ng.png"
+  ],
+  "lmms": [
+    "src/64x64/lmms.png",
+    "src/128x128/lmms.png"
+  ],
+  "lollypop": [
+    "src/64x64/lollypop.png",
+    "src/128x128/lollypop.png"
+  ],
+  "lutris": [
+    "src/64x64/lutris.png",
+    "src/128x128/lutris.png"
+  ],
+  "mame": [
+    "src/64x64/mame.png",
+    "src/128x128/mame.png"
+  ],
+  "manuskript": [
+    "src/64x64/manuskript.png",
+    "src/128x128/manuskript.png"
+  ],
+  "marker": [],
+  "mediathekview": [
+    "src/64x64/mediathekview.png",
+    "src/128x128/mediathekview.png"
+  ],
+  "meld": [],
+  "mitmproxy": [
+    "src/64x64/mitmproxy.png",
+    "src/128x128/mitmproxy.png"
+  ],
+  "mixxx": [
+    "src/64x64/mixxx.png",
+    "src/128x128/mixxx.png"
+  ],
+  "morphosis": [
+    "src/64x64/morphosis.png",
+    "src/128x128/morphosis.png"
+  ],
+  "netbeans": [],
+  "nicotine\u002B": [
+    "src/64x64/nicotine\u002B.png",
+    "src/128x128/nicotine\u002B.png"
+  ],
+  "obsidian": [
+    "src/64x64/obsidian.png",
+    "src/128x128/obsidian.png"
+  ],
+  "ocrfeeder": [
+    "src/64x64/ocrfeeder.png",
+    "src/128x128/ocrfeeder.png"
+  ],
+  "onionshare": [
+    "src/64x64/onionshare.png",
+    "src/128x128/onionshare.png"
+  ],
+  "openra": [
+    "src/64x64/openra.png",
+    "src/128x128/openra.png"
+  ],
+  "openrct2": [
+    "src/64x64/openrct2.png",
+    "src/128x128/openrct2.png"
+  ],
+  "osmo": [
+    "src/64x64/osmo.png",
+    "src/128x128/osmo.png"
+  ],
+  "paperwork": [],
+  "pencil2d": [
+    "src/64x64/pencil2d.png",
+    "src/128x128/pencil2d.png"
+  ],
+  "piper": [
+    "src/64x64/piper.png",
+    "src/128x128/piper.png"
+  ],
+  "ponysay": [
+    "src/64x64/ponysay.png",
+    "src/128x128/ponysay.png"
+  ],
+  "protontricks": [
+    "src/64x64/protontricks.png",
+    "src/128x128/protontricks.png"
+  ],
+  "pysolfc": [
+    "src/64x64/pysolfc.png",
+    "src/128x128/pysolfc.png"
+  ],
+  "pyzo": [
+    "src/64x64/pyzo.png",
+    "src/128x128/pyzo.png"
+  ],
+  "qbittorrent": [
+    "src/64x64/qbittorrent.png",
+    "src/128x128/qbittorrent.png"
+  ],
+  "rawtherapee": [
+    "src/64x64/rawtherapee.png",
+    "src/128x128/rawtherapee.png"
+  ],
+  "reaper": [
+    "src/64x64/reaper.png",
+    "src/128x128/reaper.png"
+  ],
+  "rednotebook": [
+    "src/64x64/rednotebook.png",
+    "src/128x128/rednotebook.png"
+  ],
+  "retext": [
+    "src/64x64/retext.png",
+    "src/128x128/retext.png"
+  ],
+  "sauerbraten": [
+    "src/64x64/sauerbraten.png",
+    "src/128x128/sauerbraten.png"
+  ],
+  "secrets": [
+    "src/64x64/secrets.png",
+    "src/128x128/secrets.png"
+  ],
+  "setzer": [
+    "src/64x64/setzer.png",
+    "src/128x128/setzer.png"
+  ],
+  "solaar": [
+    "src/64x64/solaar.png",
+    "src/128x128/solaar.png"
+  ],
+  "soundconverter": [
+    "src/64x64/soundconverter.png",
+    "src/128x128/soundconverter.png"
+  ],
+  "spyder": [
+    "src/64x64/spyder.png",
+    "src/128x128/spyder.png"
+  ],
+  "stochas": [
+    "src/64x64/stochas.png",
+    "src/128x128/stochas.png"
+  ],
+  "supertux": [
+    "src/64x64/supertux.png",
+    "src/128x128/supertux.png"
+  ],
+  "tangram": [
+    "src/64x64/tangram.png",
+    "src/128x128/tangram.png"
+  ],
+  "texworks": [
+    "src/64x64/texworks.png",
+    "src/128x128/texworks.png"
+  ],
+  "twine": [
+    "src/64x64/twine.png",
+    "src/128x128/twine.png"
+  ],
+  "valuta": [
+    "src/64x64/valuta.png",
+    "src/128x128/valuta.png"
+  ],
+  "vice": [
+    "src/64x64/vice.png",
+    "src/128x128/vice.png"
+  ],
+  "vorta": [
+    "src/64x64/vorta.png",
+    "src/128x128/vorta.png"
+  ],
+  "warpinator": [
+    "src/64x64/warpinator.png",
+    "src/128x128/warpinator.png"
+  ],
+  "wike": [
+    "src/64x64/wike.png",
+    "src/128x128/wike.png"
+  ],
+  "words": [
+    "src/64x64/words.png",
+    "src/128x128/words.png"
+  ],
+  "yazi": [],
+  "zenmap": [
+    "src/64x64/zenmap.png",
+    "src/128x128/zenmap.png"
+  ],
+  "zim": [
+    "src/64x64/zim.png",
+    "src/128x128/zim.png"
+  ],
+  "steam": [
+    "src/64x64/steam.png",
+    "src/128x128/steam.png"
+  ],
+  "zsnes": [
+    "src/64x64/zsnes.png",
+    "src/128x128/zsnes.png"
+  ],
+  "86box": [
+    "src/64x64/86box.png",
+    "src/128x128/86box.png"
+  ],
+  "adwsteamgtk": [
+    "src/64x64/adwsteamgtk.png",
+    "src/128x128/adwsteamgtk.png"
+  ],
+  "agenda": [
+    "src/64x64/agenda.png",
+    "src/128x128/agenda.png"
+  ],
+  "airshipper": [
+    "src/64x64/airshipper.png",
+    "src/128x128/airshipper.png"
+  ],
+  "audiorelay": [
+    "src/64x64/audiorelay.png",
+    "src/128x128/audiorelay.png"
+  ],
+  "ausweisapp": [
+    "src/64x64/ausweisapp.png",
+    "src/128x128/ausweisapp.png"
+  ],
+  "biglybt": [
+    "src/64x64/biglybt.png",
+    "src/128x128/biglybt.png"
+  ],
+  "birdtray": [
+    "src/64x64/birdtray.png",
+    "src/128x128/birdtray.png"
+  ],
+  "bottles": [
+    "src/64x64/bottles.png",
+    "src/128x128/bottles.png"
+  ],
+  "boxbuddy": [
+    "src/64x64/boxbuddy.png",
+    "src/128x128/boxbuddy.png"
+  ],
+  "bruno": [
+    "src/64x64/bruno.png",
+    "src/128x128/bruno.png"
+  ],
+  "cambalache": [
+    "src/64x64/cambalache.png",
+    "src/128x128/cambalache.png"
+  ],
+  "cantata": [
+    "src/64x64/cantata.png",
+    "src/128x128/cantata.png"
+  ],
+  "carburetor": [
+    "src/64x64/carburetor.png",
+    "src/128x128/carburetor.png"
+  ],
+  "cassette": [
+    "src/64x64/cassette.png",
+    "src/128x128/cassette.png"
+  ],
+  "chiaki-ng": [
+    "src/64x64/chiaki-ng.png",
+    "src/128x128/chiaki-ng.png"
+  ],
+  "clapgrep": [
+    "src/64x64/clapgrep.png",
+    "src/128x128/clapgrep.png"
+  ],
+  "cobang": [
+    "src/64x64/cobang.png",
+    "src/128x128/cobang.png"
+  ],
+  "coreimage": [
+    "src/64x64/coreimage.png",
+    "src/128x128/coreimage.png"
+  ],
+  "corekeyboard": [
+    "src/64x64/corekeyboard.png",
+    "src/128x128/corekeyboard.png"
+  ],
+  "corepad": [
+    "src/64x64/corepad.png",
+    "src/128x128/corepad.png"
+  ],
+  "corepaint": [
+    "src/64x64/corepaint.png",
+    "src/128x128/corepaint.png"
+  ],
+  "corepdf": [
+    "src/64x64/corepdf.png",
+    "src/128x128/corepdf.png"
+  ],
+  "coulr": [
+    "src/64x64/coulr.png",
+    "src/128x128/coulr.png"
+  ],
+  "crqt-ng": [
+    "src/64x64/crqt-ng.png",
+    "src/128x128/crqt-ng.png"
+  ],
+  "ddnet": [
+    "src/64x64/ddnet.png",
+    "src/128x128/ddnet.png"
+  ],
+  "detwinner": [
+    "src/64x64/detwinner.png",
+    "src/128x128/detwinner.png"
+  ],
+  "distroshelf": [
+    "src/64x64/distroshelf.png",
+    "src/128x128/distroshelf.png"
+  ],
+  "dosbox-x": [
+    "src/64x64/dosbox-x.png",
+    "src/128x128/dosbox-x.png"
+  ],
+  "drawpile": [
+    "src/64x64/drawpile.png",
+    "src/128x128/drawpile.png"
+  ],
+  "dropbox": [],
+  "emote": [
+    "src/64x64/emote.png",
+    "src/128x128/emote.png"
+  ],
+  "emulsion": [
+    "src/64x64/emulsion.png",
+    "src/128x128/emulsion.png"
+  ],
+  "exaile": [
+    "src/64x64/exaile.png",
+    "src/128x128/exaile.png"
+  ],
+  "ffaudioconverter": [
+    "src/64x64/ffaudioconverter.png",
+    "src/128x128/ffaudioconverter.png"
+  ],
+  "filebot": [
+    "src/64x64/filebot.png",
+    "src/128x128/filebot.png"
+  ],
+  "firedragon": [
+    "src/64x64/firedragon.png",
+    "src/128x128/firedragon.png"
+  ],
+  "fityk": [
+    "src/64x64/fityk.png",
+    "src/128x128/fityk.png"
+  ],
+  "flacon": [
+    "src/64x64/flacon.png",
+    "src/128x128/flacon.png"
+  ],
+  "fldigi": [
+    "src/64x64/fldigi.png",
+    "src/128x128/fldigi.png"
+  ],
+  "floorp": [
+    "src/64x64/floorp.png",
+    "src/128x128/floorp.png"
+  ],
+  "fluffychat": [
+    "src/64x64/fluffychat.png",
+    "src/128x128/fluffychat.png"
+  ],
+  "flycast": [
+    "src/64x64/flycast.png",
+    "src/128x128/flycast.png"
+  ],
+  "fmit": [
+    "src/64x64/fmit.png",
+    "src/128x128/fmit.png"
+  ],
+  "fsearch": [
+    "src/64x64/fsearch.png",
+    "src/128x128/fsearch.png"
+  ],
+  "gitkraken": [
+    "src/64x64/gitkraken.png",
+    "src/128x128/gitkraken.png"
+  ],
+  "gittyup": [
+    "src/64x64/gittyup.png",
+    "src/128x128/gittyup.png"
+  ],
+  "goldwarden": [
+    "src/64x64/goldwarden.png",
+    "src/128x128/goldwarden.png"
+  ],
+  "goodvibes": [
+    "src/64x64/goodvibes.png",
+    "src/128x128/goodvibes.png"
+  ],
+  "gopher64": [
+    "src/64x64/gopher64.png",
+    "src/128x128/gopher64.png"
+  ],
+  "gpredict": [
+    "src/64x64/gpredict.png",
+    "src/128x128/gpredict.png"
+  ],
+  "gradia": [
+    "src/64x64/gradia.png",
+    "src/128x128/gradia.png"
+  ],
+  "gromit-mpx": [
+    "src/64x64/gromit-mpx.png",
+    "src/128x128/gromit-mpx.png"
+  ],
+  "gtkhash": [
+    "src/64x64/gtkhash.png",
+    "src/128x128/gtkhash.png"
+  ],
+  "haguichi": [
+    "src/64x64/haguichi.png",
+    "src/128x128/haguichi.png"
+  ],
+  "imhex": [
+    "src/64x64/imhex.png",
+    "src/128x128/imhex.png"
+  ],
+  "insomnia": [
+    "src/64x64/insomnia.png",
+    "src/128x128/insomnia.png"
+  ],
+  "jameica": [
+    "src/64x64/jameica.png",
+    "src/128x128/jameica.png"
+  ],
+  "jamesdsp": [
+    "src/64x64/jamesdsp.png",
+    "src/128x128/jamesdsp.png"
+  ],
+  "jdanimatedimageeditor": [
+    "src/64x64/jdanimatedimageeditor.png",
+    "src/128x128/jdanimatedimageeditor.png"
+  ],
+  "jdminecraftlauncher": [
+    "src/64x64/jdminecraftlauncher.png",
+    "src/128x128/jdminecraftlauncher.png"
+  ],
+  "js8call": [
+    "src/64x64/js8call.png",
+    "src/128x128/js8call.png"
+  ],
+  "krop": [
+    "src/64x64/krop.png",
+    "src/128x128/krop.png"
+  ],
+  "lagrange": [
+    "src/64x64/lagrange.png",
+    "src/128x128/lagrange.png"
+  ],
+  "librepcb": [
+    "src/64x64/librepcb.png",
+    "src/128x128/librepcb.png"
+  ],
+  "librewolf": [
+    "src/64x64/librewolf.png",
+    "src/128x128/librewolf.png"
+  ],
+  "ludusavi": [
+    "src/64x64/ludusavi.png",
+    "src/128x128/ludusavi.png"
+  ],
+  "lyx": [
+    "src/64x64/lyx.png",
+    "src/128x128/lyx.png"
+  ],
+  "makemkv": [
+    "src/64x64/makemkv.png",
+    "src/128x128/makemkv.png"
+  ],
+  "mcomix": [
+    "src/64x64/mcomix.png",
+    "src/128x128/mcomix.png"
+  ],
+  "mednaffe": [
+    "src/64x64/mednaffe.png",
+    "src/128x128/mednaffe.png"
+  ],
+  "mindustry": [
+    "src/64x64/mindustry.png",
+    "src/128x128/mindustry.png"
+  ],
+  "minigalaxy": [
+    "src/64x64/minigalaxy.png",
+    "src/128x128/minigalaxy.png"
+  ],
+  "mpc-qt": [
+    "src/64x64/mpc-qt.png",
+    "src/128x128/mpc-qt.png"
+  ],
+  "normcap": [
+    "src/64x64/normcap.png",
+    "src/128x128/normcap.png"
+  ],
+  "notes": [
+    "src/64x64/notes.png",
+    "src/128x128/notes.png"
+  ],
+  "nyrna": [
+    "src/64x64/nyrna.png",
+    "src/128x128/nyrna.png"
+  ],
+  "odamex": [
+    "src/64x64/odamex.png",
+    "src/128x128/odamex.png"
+  ],
+  "oneko": [
+    "src/64x64/oneko.png",
+    "src/128x128/oneko.png"
+  ],
+  "openboard": [
+    "src/64x64/openboard.png",
+    "src/128x128/openboard.png"
+  ],
+  "opendeck": [
+    "src/64x64/opendeck.png",
+    "src/128x128/opendeck.png"
+  ],
+  "opentodolist": [
+    "src/64x64/opentodolist.png",
+    "src/128x128/opentodolist.png"
+  ],
+  "otpclient": [],
+  "oversteer": [
+    "src/64x64/oversteer.png",
+    "src/128x128/oversteer.png"
+  ],
+  "packet": [
+    "src/64x64/packet.png",
+    "src/128x128/packet.png"
+  ],
+  "parlatype": [
+    "src/64x64/parlatype.png",
+    "src/128x128/parlatype.png"
+  ],
+  "peazip": [
+    "src/64x64/peazip.png",
+    "src/128x128/peazip.png"
+  ],
+  "photocollage": [
+    "src/64x64/photocollage.png",
+    "src/128x128/photocollage.png"
+  ],
+  "photoqt": [
+    "src/64x64/photoqt.png",
+    "src/128x128/photoqt.png"
+  ],
+  "pinta": [
+    "src/64x64/pinta.png",
+    "src/128x128/pinta.png"
+  ],
+  "pix": [],
+  "pixelorama": [
+    "src/64x64/pixelorama.png",
+    "src/128x128/pixelorama.png"
+  ],
+  "planify": [
+    "src/64x64/planify.png",
+    "src/128x128/planify.png"
+  ],
+  "polychromatic": [
+    "src/64x64/polychromatic.png",
+    "src/128x128/polychromatic.png"
+  ],
+  "q-zandronum": [
+    "src/64x64/q-zandronum.png",
+    "src/128x128/q-zandronum.png"
+  ],
+  "qdirstat": [
+    "src/64x64/qdirstat.png",
+    "src/128x128/qdirstat.png"
+  ],
+  "qownnotes": [
+    "src/64x64/qownnotes.png",
+    "src/128x128/qownnotes.png"
+  ],
+  "quaternion": [
+    "src/64x64/quaternion.png",
+    "src/128x128/quaternion.png"
+  ],
+  "qucs-s": [
+    "src/64x64/qucs-s.png",
+    "src/128x128/qucs-s.png"
+  ],
+  "qview": [
+    "src/64x64/qview.png",
+    "src/128x128/qview.png"
+  ],
+  "rapidraw": [
+    "src/64x64/rapidraw.png",
+    "src/128x128/rapidraw.png"
+  ],
+  "raze": [
+    "src/64x64/raze.png",
+    "src/128x128/raze.png"
+  ],
+  "refine": [
+    "src/64x64/refine.png",
+    "src/128x128/refine.png"
+  ],
+  "revelation": [],
+  "rewaita": [
+    "src/64x64/rewaita.png",
+    "src/128x128/rewaita.png"
+  ],
+  "ripcord": [
+    "src/64x64/ripcord.png",
+    "src/128x128/ripcord.png"
+  ],
+  "ruqola": [
+    "src/64x64/ruqola.png",
+    "src/128x128/ruqola.png"
+  ],
+  "rustconn": [
+    "src/64x64/rustconn.png",
+    "src/128x128/rustconn.png"
+  ],
+  "sabnzbd": [
+    "src/64x64/sabnzbd.png",
+    "src/128x128/sabnzbd.png"
+  ],
+  "sameboy": [
+    "src/64x64/sameboy.png",
+    "src/128x128/sameboy.png"
+  ],
+  "scid": [
+    "src/64x64/scid.png",
+    "src/128x128/scid.png"
+  ],
+  "shadps4": [
+    "src/64x64/shadps4.png",
+    "src/128x128/shadps4.png"
+  ],
+  "smartgit": [
+    "src/64x64/smartgit.png",
+    "src/128x128/smartgit.png"
+  ],
+  "solvespace": [
+    "src/64x64/solvespace.png",
+    "src/128x128/solvespace.png"
+  ],
+  "sonobus": [
+    "src/64x64/sonobus.png",
+    "src/128x128/sonobus.png"
+  ],
+  "spotify": [
+    "src/64x64/spotify.png",
+    "src/128x128/spotify.png"
+  ],
+  "telegraph": [
+    "src/64x64/telegraph.png",
+    "src/128x128/telegraph.png"
+  ],
+  "texmacs": [
+    "src/64x64/texmacs.png",
+    "src/128x128/texmacs.png"
+  ],
+  "thonny": [],
+  "timetrack": [
+    "src/64x64/timetrack.png",
+    "src/128x128/timetrack.png"
+  ],
+  "tradingview": [
+    "src/64x64/tradingview.png",
+    "src/128x128/tradingview.png"
+  ],
+  "trayscale": [
+    "src/64x64/trayscale.png",
+    "src/128x128/trayscale.png"
+  ],
+  "trustedqsl": [
+    "src/64x64/trustedqsl.png",
+    "src/128x128/trustedqsl.png"
+  ],
+  "varia": [
+    "src/64x64/varia.png",
+    "src/128x128/varia.png"
+  ],
+  "vcmi": [
+    "src/64x64/vcmi.png",
+    "src/128x128/vcmi.png"
+  ],
+  "vibrantlinux": [
+    "src/64x64/vibrantlinux.png",
+    "src/128x128/vibrantlinux.png"
+  ],
+  "vinegar": [
+    "src/64x64/vinegar.png",
+    "src/128x128/vinegar.png"
+  ],
+  "vnote": [
+    "src/64x64/vnote.png",
+    "src/128x128/vnote.png"
+  ],
+  "waterfox": [
+    "src/64x64/waterfox.png",
+    "src/128x128/waterfox.png"
+  ],
+  "webcamoid": [
+    "src/64x64/webcamoid.png",
+    "src/128x128/webcamoid.png"
+  ],
+  "winbox": [
+    "src/64x64/winbox.png",
+    "src/128x128/winbox.png"
+  ],
+  "wxmaxima": [
+    "src/64x64/wxmaxima.png",
+    "src/128x128/wxmaxima.png"
+  ],
+  "yacreader": [
+    "src/64x64/yacreader.png",
+    "src/128x128/yacreader.png"
+  ],
+  "zandronum": [
+    "src/64x64/zandronum.png",
+    "src/128x128/zandronum.png"
+  ],
+  "zapzap": [
+    "src/64x64/zapzap.png",
+    "src/128x128/zapzap.png"
+  ],
+  "zoom": [
+    "src/64x64/zoom.png",
+    "src/128x128/zoom.png"
+  ],
+  "zrythm": [
+    "src/64x64/zrythm.png",
+    "src/128x128/zrythm.png"
   ]
 }

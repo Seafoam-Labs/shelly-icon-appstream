@@ -24145,5 +24145,110 @@
     "src/48x48/perl.png",
     "src/64x64/perl.png",
     "src/128x128/perl.png"
+  ],
+  "dotnet-host-bin": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-runtime-bin": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-sdk-bin": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-targeting-pack-bin": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-host": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-runtime": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-runtime-6.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-runtime-8.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-runtime-9.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-sdk": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-sdk-6.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-sdk-8.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-sdk-9.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-source-built-artifacts": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-source-built-artifacts-6.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-source-built-artifacts-8.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-source-built-artifacts-9.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-targeting-pack": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-targeting-pack-6.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-targeting-pack-8.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
+  ],
+  "dotnet-targeting-pack-9.0": [
+    "src/48x48/dotnet.png",
+    "src/64x64/dotnet.png",
+    "src/128x128/dotnet.png"
   ]
 }

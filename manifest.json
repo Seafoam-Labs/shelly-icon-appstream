@@ -5160,5 +5160,51 @@
     "src/128x128/emacs-slime.png",
     "src/64x64/emacs-slime.png",
     "src/48x48/emacs-slime.png"
+  ],
+  "alsa-utils": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-ucm-conf": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-topology-conf": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-tools": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-plugins": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-oss": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  
+  "alsa-lib": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-firmware": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
+  ],
+  "alsa-card-profiles": [
+    "src/128x128/alsalogo.png",
+    "src/64x64/alsalogo.png",
+    "src/48x48/alsalogo.png"
   ]
 }

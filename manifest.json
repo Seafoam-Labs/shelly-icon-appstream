@@ -47718,5 +47718,4814 @@
     "src/48x48/cairo.png",
     "src/64x64/cairo.png",
     "src/128x128/cairo.png"
+  ],
+  "tree-sitter-bash": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-c": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-cli": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-javascript": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-lua": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-markdown": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-python": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-query": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-rust": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-vim": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "tree-sitter-vimdoc": [
+    "src/48x48/tree-sitter.png",
+    "src/64x64/tree-sitter.png",
+    "src/128x128/tree-sitter.png"
+  ],
+  "zita-at1": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-bls1": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-dc1": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-jclient": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-mu1": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-resampler": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-resampler-docs": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zita-rev1": [
+    "src/48x48/jaaa.png",
+    "src/64x64/jaaa.png",
+    "src/128x128/zita-ajbridge.png"
+  ],
+  "zabbix-agent": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-agent2": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-common": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-frontend-php": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-proxy": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-server": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "zabbix-web-service": [
+    "src/48x48/zabbix.png",
+    "src/64x64/zabbix.png",
+    "src/128x128/zabbix.png"
+  ],
+  "xorg-appres": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-bdftopcf": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-font-util": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonttosfnt": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-iceauth": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-mkfontscale": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-oclock": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-common": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-devel": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-src": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-xephyr": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-xnest": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-server-xvfb": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-sessreg": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-setxkbmap": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-smproxy": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-twm": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-x11perf": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xauth": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xbacklight": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xbiff": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xclipboard": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xclock": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xcmsdb": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xconsole": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xcursorgen": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xdm": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xdpyinfo": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xdriinfo": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xedit": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xev": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xeyes": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xfd": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xfontsel": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xgamma": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xhost": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xinit": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xinput": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xkbcomp": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xkbevd": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xkbprint": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xkbutils": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xkill": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xload": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xlogo": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xlsatoms": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xlsclients": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xlsfonts": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xmag": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xman": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xmessage": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xmodmap": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xpr": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xprop": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xrandr": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xrdb": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xrefresh": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xset": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xsetroot": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xvidtune": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xvinfo": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xwayland": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xwd": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xwininfo": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-xwud": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-docs": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-100dpi": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-75dpi": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-alias-100dpi": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-alias-75dpi": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-alias-cyrillic": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-alias-misc": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-cyrillic": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-encodings": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-misc": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-fonts-type1": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorg-util-macros": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "xorgproto": [
+    "src/48x48/xorg.png",
+    "src/64x64/xorg.png",
+    "src/128x128/xorg.png"
+  ],
+  "vim-powerline": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-runtime": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-airline": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-airline-themes": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-ale": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-ansible": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-auto-pairs": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-bufexplorer": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-csound": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-ctrlp": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-devicons": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-easymotion": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-fugitive": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-gitgutter": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-grammalecte": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-indent-object": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-jad": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-jedi": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-latexsuite": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-molokai": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-nerdcommenter": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-nerdtree": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-seti": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-af": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-am": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-bg": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-br": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ca": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-cs": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-cy": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-da": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-de": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-el": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-en": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-eo": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-es": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-fo": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-fr": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ga": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-gd": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-gl": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-he": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-hr": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-hu": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-id": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-it": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ku": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-la": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-lt": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-lv": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-mg": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-mi": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ms": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-nb": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-nl": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-nn": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ny": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-pl": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-pt": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ro": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-ru": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-rw": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-sk": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-sl": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-sr": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-sv": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-sw": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-tet": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-th": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-tl": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-tn": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-tr": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-uk": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-yi": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-spell-zu": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-supertab": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-surround": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-syntastic": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-tabular": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-tagbar": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-ultisnips": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "vim-vital": [
+    "src/48x48/vim.png",
+    "src/64x64/vim.png"
+  ],
+  "piper-tts-git": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-common": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-alan": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-alba": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-aru": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-cori": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-jenny_dioco": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-northern_english_male": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-semaine": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-southern_english_female": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-gb-vctk": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-amy": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-arctic": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-bryce": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-danny": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-hfc_female": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-hfc_male": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-joe": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-john": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-kathleen": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-kristin": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-kusal": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-l2arctic": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-lessac": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-libritts_r": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-ljspeech": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-norman": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-reza_ibrahim": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-en-us-ryan": [
+    "src/48x48/piper-tts.png",
+    "src/128x128/piper-tts.png",
+    "src/64x64/piper-tts.png"
+  ],
+  "piper-voices-en-us-sam": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-pt-br": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-pt-br-cadu": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-pt-br-edresson": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-pt-br-faber": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "piper-voices-pt-br-jeff": [
+    "src/48x48/piper-tts.png",
+    "src/64x64/piper-tts.png",
+    "src/128x128/piper-tts.png"
+  ],
+  "openapi-tui": [
+    "src/48x48/openapi.png",
+    "src/64x64/openapi.png",
+    "src/128x128/openapi.png"
+  ],
+  "openapi-diff": [
+    "src/48x48/openapi.png",
+    "src/64x64/openapi.png",
+    "src/128x128/openapi.png"
+  ],
+  "openapi-generator": [
+    "src/48x48/openapi.png",
+    "src/64x64/openapi.png",
+    "src/128x128/openapi.png"
+  ],
+  "ollama": [
+    "src/48x48/ollama.png",
+    "src/64x64/ollama.png",
+    "src/128x128/ollama.png"
+  ],
+  "ollama-cuda": [
+    "src/48x48/ollama.png",
+    "src/64x64/ollama.png",
+    "src/128x128/ollama.png"
+  ],
+  "ollama-docs": [
+    "src/48x48/ollama.png",
+    "src/64x64/ollama.png",
+    "src/128x128/ollama.png"
+  ],
+  "ollama-rocm": [
+    "src/48x48/ollama.png",
+    "src/64x64/ollama.png",
+    "src/128x128/ollama.png"
+  ],
+  "ollama-vulkan": [
+    "src/48x48/ollama.png",
+    "src/64x64/ollama.png",
+    "src/128x128/ollama.png"
+  ],
+  "nvidia-open": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-settings-debug": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-container-toolkit": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-open-lts": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-390xx-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-470xx-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-535xx-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-580xx-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-module-extractor": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-prime": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx-dkms": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx-lts": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx-lts-dkms": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx-settings": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-340xx-utils": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-exec": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nvidia-patch-git": [
+    "src/48x48/lib32-nvidia-390xx-utils.png",
+    "src/64x64/lib32-nvidia-390xx-utils.png",
+    "src/128x128/nvidia-390xx-dkms.png"
+  ],
+  "nginx-mod-acme": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-auth-pam": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-brotli": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-cache_purge": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-echo": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-geoip2": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-headers-more": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-memc": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-modsecurity": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-naxsi": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-redis2": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-srcache": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-vts": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-prometheus-exporter": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-ndk": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mod-set-misc": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-auth_pam": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-brotli": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-dav-ext": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-echo": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-fancyindex": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-headers-more": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-lua": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-ndk": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nginx-mainline-mod-njs": [
+    "src/48x48/nginx.png",
+    "src/64x64/nginx.png",
+    "src/128x128/nginx.png"
+  ],
+  "nextcloud-app-notify_push": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-bookmarks": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-calendar": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-contacts": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-deck": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-mail": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-news": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-notes": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-app-tasks": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "nextcloud-client-git": [
+    "src/48x48/nextcloud-client.png",
+    "src/64x64/nextcloud-client.png",
+    "src/128x128/nextcloud-client.png"
+  ],
+  "neovim-git": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-nightly-bin": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-decasify": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-lspconfig": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-plug": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-plug-git": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-remote": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "neovim-symlinks": [
+    "src/48x48/neovim.png",
+    "src/64x64/neovim.png",
+    "src/128x128/neovim.png"
+  ],
+  "mullvad-vpn-beta": [
+    "src/48x48/mullvad-browser-bin.png",
+    "src/64x64/mullvad-browser-bin.png",
+    "src/128x128/mullvad-browser-bin.png"
+  ],
+  "mullvad-vpn-daemon-beta": [
+    "src/48x48/mullvad-browser-bin.png",
+    "src/64x64/mullvad-browser-bin.png",
+    "src/128x128/mullvad-browser-bin.png"
+  ],
+  "lua51-alt-getopt": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-argparse": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-basexx": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-binaryheap": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-bit32": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-bitop": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-busted": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-cassowary": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-cldr": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-cliargs": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-compat53": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-cosmo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-cqueues": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-dbi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-decasify": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-dkjson": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-expat": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-fifo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-fluent": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-http": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-inifile": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-jsregexp": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lanes": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lgi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-linenoise": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-loadkit": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lpeg": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lpeg-patterns": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luaepnf": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luaossl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luarepl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luarocks-build-rust-mlua": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luassert": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luautf8": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lub": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-lut": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-luv": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-mediator": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-mpack": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-penlight": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-posix": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-psl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-say": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-sec": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-semver": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-socket": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-std-debug": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-std-normalize": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-stdlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-system": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-term": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-testmore": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-vstruct": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-yaml": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua51-zlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-alt-getopt": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-argparse": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-basexx": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-binaryheap": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-bit32": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-bitop": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-busted": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-cassowary": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-cldr": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-cliargs": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-compat53": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-cosmo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-cqueues": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-dbi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-decasify": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-dkjson": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-expat": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-fifo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-fluent": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-http": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-inifile": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-jsregexp": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-lanes": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-linenoise": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-loadkit": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-lpeg": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-lpeg-patterns": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luaepnf": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luajson": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luaossl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luarepl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luarocks-build-rust-mlua": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luassert": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luautf8": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-lub": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-lut": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-luv": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-mediator": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-mpack": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-penlight": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-posix": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-psl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-say": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-sec": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-semver": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-socket": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-std-debug": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-std-normalize": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-stdlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-system": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-term": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-testmore": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-vstruct": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-yaml": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua52-zlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-alt-getopt": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-argparse": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-basexx": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-binaryheap": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-bit32": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-busted": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-cassowary": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-cldr": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-cliargs": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-cosmo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-cqueues": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-dbi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-decasify": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-dkjson": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-expat": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-fifo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-fluent": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-http": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-inifile": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-jsregexp": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lanes": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lgi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-linenoise": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-loadkit": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lpeg": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lpeg-patterns": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luaepnf": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luaossl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luarepl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luarocks-build-rust-mlua": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luassert": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luautf8": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lub": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-lut": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-luv": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-mediator": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-mpack": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-penlight": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-posix": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-psl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-say": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-sdl2": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-sec": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-semver": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-socket": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-std-debug": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-std-normalize": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-stdlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-system": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-term": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-testmore": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-vstruct": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-yaml": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua53-zlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-alt-getopt": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-argparse": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-basexx": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-binaryheap": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-bit32": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-busted": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-cassowary": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-cldr": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-cliargs": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-cosmo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-cqueues": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-dbi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-decasify": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-dkjson": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-expat": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-fifo": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-fluent": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-http": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-inifile": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-jsregexp": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lanes": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lgi": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-linenoise": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-loadkit": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lpeg": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lpeg-patterns": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luaepnf": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luaossl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luarepl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luarocks-build-rust-mlua": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luassert": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luautf8": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lub": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-lut": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-luv": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-mediator": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-mpack": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-penlight": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-posix": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-psl": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-say": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-sec": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-semver": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-socket": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-std-debug": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-std-normalize": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-stdlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-system": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-term": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-testmore": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-vstruct": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-yaml": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "lua54-zlib": [
+    "src/48x48/lua.png",
+    "src/64x64/lua.png",
+    "src/128x128/lua.png"
+  ],
+  "llvm-bolt": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "llvm-mingw": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "llvm-propeller": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "limine": [
+    "src/48x48/limine.png",
+    "src/64x64/limine.png",
+    "src/128x128/limine.png"
+  ],
+  "limine-entry-tool": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "limine-mkinitcpio-hook": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "limine-snapper-sync": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "limine-dracut-support": [
+    "src/48x48/lib32-llvm.png",
+    "src/64x64/lib32-llvm.png",
+    "src/128x128/llvm.png"
+  ],
+  "hyprland": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "intel-compute-runtime": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-gmmlib": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-graphics-compiler": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-media-driver": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-metee": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-metee-doc": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-lpmd": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-gpu-tools": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-media-sdk": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-ucode": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-undervolt": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-compute-runtime-legacy": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-gmmlib-legacy": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-graphics-compiler-legacy": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-hybrid-codec-driver-git": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-media-driver-legacy": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-npu-driver-bin": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-sde": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "intel-xed-git": [
+    "src/48x48/intel.png",
+    "src/64x64/intel.png",
+    "src/128x128/intel.png"
+  ],
+  "hyprland-guiutils": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-protocols": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-qt-support": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-guiutils-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-protocols-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprland-qt-support-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprcursor": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprgraphics": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hypridle": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprlang": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprlauncher": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprlock": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpaper": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpicker": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpolkitagent": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpwcenter": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprsunset": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprtoolkit": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprutils": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprwayland-scanner": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprwire": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprshot": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprcursor-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprgraphics-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hypridle-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprlang-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprlock-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpaper-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprpicker-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprqt6engine-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprshade": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprshell": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprtoolkit-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprutils-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprwayland-scanner-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyprwire-git": [
+    "src/48x48/hyprland.png",
+    "src/64x64/hyprland.png",
+    "src/128x128/hyprland.png"
+  ],
+  "hyphen-de": [
+    "src/48x48/hyphen.png",
+    "src/64x64/hyphen.png",
+    "src/128x128/xine-lib.png"
+  ],
+  "hyphen-es": [
+    "src/48x48/hyphen.png",
+    "src/64x64/hyphen.png",
+    "src/128x128/xine-lib.png"
+  ],
+  "hyphen-fr": [
+    "src/48x48/hyphen.png",
+    "src/64x64/hyphen.png",
+    "src/128x128/xine-lib.png"
+  ],
+  "hyphen-hu": [
+    "src/48x48/hyphen.png",
+    "src/64x64/hyphen.png",
+    "src/128x128/xine-lib.png"
+  ],
+  "hyphen-nl": [
+    "src/48x48/hyphen.png",
+    "src/64x64/hyphen.png",
+    "src/128x128/xine-lib.png"
+  ],
+  "gambas3-dev-tools": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-args": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-cairo": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-chart": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-clipper": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-clipper2": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-complex": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-compress": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-crypt": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-data": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db-form": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db-mysql": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db-odbc": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db-postgresql": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db-sqlite3": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2-form": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2-mysql": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2-odbc": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2-postgresql": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-db2-sqlite3": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-dbus": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-desktop": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-desktop-x11": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-eval-highlight": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-dialog": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-editor": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-htmlview": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-mdi": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-stock": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-form-terminal": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-gmp": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-gsl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-gtk3": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-gtk3-opengl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-hash": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-highlight": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-httpd": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-image": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-image-effect": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-image-imlib": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-image-io": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-inotify": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-libxml": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-logging": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-map": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-markdown": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-media": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-media-form": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-memcached": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-mime": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-mongodb": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-mysql": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-ncurses": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-net": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-net-curl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-net-pop3": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-net-smtp": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-openal": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-opengl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-opengl-glsl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-opengl-glu": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-opengl-sge": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-openssl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-option": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-pcre": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-poppler": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-qt5": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-qt5-opengl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-qt6": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-qt6-opengl": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-qt6-webview": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-report": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-scanner": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-sdl2": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-sdl2-audio": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-settings": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-signal": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-term": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-util": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-util-web": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-v4l": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-vb": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-web": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-web-feed": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-web-form": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-web-gui": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-xml": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-xml-html": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-xml-rpc": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-gb-xml-xslt": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-runtime": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "gambas3-script": [
+    "src/48x48/gambas.png",
+    "src/64x64/gambas.png",
+    "src/128x128/gambas-lib.png"
+  ],
+  "emacs-apel": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "emacs-haskell-mode": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "emacs-lua-mode": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "emacs-muse": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "emacs-python-mode": [
+    "src/48x48/emacs.png",
+    "src/64x64/emacs.png",
+    "src/128x128/emacs.png"
+  ],
+  "sugar": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-datastore": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-runner": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-toolkit-gtk3": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-browse": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-calculate": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-chat": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-clock": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-imageviewer": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-jukebox": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-log": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-paint": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-pippy": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-read": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-record": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-terminal": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-turtleart": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-activity-write": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "sugar-artwork": [
+    "src/48x48/sugar.png",
+    "src/64x64/sugar.png",
+    "src/128x128/sugar.png"
+  ],
+  "syslog-ng": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-amqp": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-geoip2": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-kafka": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-mongodb": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-python": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-redis": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-smtp": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-snmp": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "syslog-ng-sql": [
+    "src/48x48/syslog-ng.png",
+    "src/64x64/syslog-ng.png",
+    "src/128x128/syslog-ng.png"
+  ],
+  "tesseract-data-afr": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-amh": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ara": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-asm": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-aze": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-aze_cyrl": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-bel": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ben": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-bod": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-bos": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-bre": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-bul": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-cat": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ceb": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ces": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-chi_sim": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-chi_sim_vert": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-chi_tra": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-chi_tra_vert": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-chr": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-cos": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-cym": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-dan": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-dan_frak": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-deu": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-deu_frak": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-div": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-dzo": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ell": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-eng": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-enm": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-epo": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-equ": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-est": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-eus": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fao": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fas": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fil": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fin": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fra": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-frk": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-frm": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-fry": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-gla": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-gle": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-glg": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-grc": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-guj": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-hat": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-heb": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-hin": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-hrv": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-hun": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-hye": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-iku": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ind": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-isl": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ita": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ita_old": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-jav": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-jpn": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-jpn_vert": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kan": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kat": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kat_old": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kaz": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-khm": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kir": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kmr": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kor": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-kor_vert": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-lao": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-lat": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-lav": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-lit": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ltz": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mal": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mar": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mkd": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mlt": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mon": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mri": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-msa": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-mya": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-nep": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-nld": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-nor": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-oci": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ori": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-osd": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-pan": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-pol": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-por": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-pus": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-que": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ron": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-rus": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-san": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-sin": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-slk": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-slk_frak": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-slv": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-snd": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-spa": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-spa_old": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-sqi": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-srp": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-srp_latn": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-sun": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-swa": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-swe": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-syr": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tam": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tat": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tel": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tgk": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tgl": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tha": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tir": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ton": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-tur": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-uig": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-ukr": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-urd": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-uzb": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-uzb_cyrl": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-vie": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-yid": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "tesseract-data-yor": [
+    "src/64x64/tesseract.png",
+    "src/128x128/tesseract.png"
+  ],
+  "thunderbird-dark-reader": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-ublock-origin": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-af": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ar": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ast": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-be": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-bg": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-br": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ca": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-cak": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-cs": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-cy": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-da": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-de": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-dsb": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-el": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-en-ca": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-en-gb": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-en-us": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-es-ar": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-es-es": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-es-mx": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-et": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-eu": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-fi": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-fr": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-fy-nl": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ga-ie": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-gd": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-gl": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-he": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-hr": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-hsb": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-hu": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-hy-am": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-id": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-is": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-it": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ja": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ka": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-kab": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-kk": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ko": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-lt": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-lv": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ms": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-nb-no": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-nl": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-nn-no": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-pa-in": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-pl": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-pt-br": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-pt-pt": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-rm": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ro": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-ru": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-sk": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-sl": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-sq": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-sr": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-sv-se": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-th": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-tr": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-uk": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-uz": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-vi": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-zh-cn": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "thunderbird-beta-i18n-zh-tw": [
+    "src/48x48/thunderbird.png",
+    "src/64x64/thunderbird.png",
+    "src/128x128/thunderbird.png"
+  ],
+  "otf-atkinsonhyperlegiblemono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-aurulent-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-codenewroman-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-comicshanns-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-commit-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-droid-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-firamono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-geist-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-hasklig-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-hermit-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-monaspace-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-opendyslexic-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "otf-overpass-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-0xproto-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-3270-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-adwaitamono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-agave-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-anonymouspro-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-arimo-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-bigblueterminal-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-bitstream-vera-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-cascadia-code-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-cascadia-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-cousine-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-d2coding-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-daddytime-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-dejavu-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-envycoder-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-fantasque-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-firacode-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-go-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-gohu-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-hack-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-heavydata-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-iawriter-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-ibmplex-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-inconsolata-go-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-inconsolata-lgc-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-inconsolata-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-input-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-intone-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-iosevka-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-iosevkaterm-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-iosevkatermslab-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-jetbrains-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-lekton-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-liberation-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-lilex-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-martian-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-meslo-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-monofur-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-monoid-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-mononoki-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-mplus-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-noto-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-profont-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-proggyclean-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-recursive-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-roboto-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-sharetech-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-sourcecodepro-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-space-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-terminus-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-tinos-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-ubuntu-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-ubuntu-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-victor-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "ttf-zed-mono-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "nnn-nerd": [
+    "src/48x48/nerd-fonts.png",
+    "src/64x64/nerd-fonts.png",
+    "src/128x128/nerd-fonts.png"
+  ],
+  "swayfx": [
+    "src/48x48/swayfx.png",
+    "src/64x64/swayfx.png",
+    "src/128x128/swayfx.png"
+  ],
+  "swayfx-dbug": [
+    "src/48x48/swayfx.png",
+    "src/64x64/swayfx.png",
+    "src/128x128/swayfx.png"
+  ],
+  "swaybg": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayidle": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayimg": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaync": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayosd": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayfx-debug": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock-effects": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock-effects-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock-fancy-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylockd": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "sway-contrib": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "sway-audio-idle-inhibit-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "sway-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "sway-launcher-desktop": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaybg-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayhide": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayidle-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock-fprintd-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaylock-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayosd-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swayr": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
+  ],
+  "swaystatus-git": [
+    "src/48x48/sway.png",
+    "src/64x64/sway.png",
+    "src/128x128/sway.png"
   ]
 }

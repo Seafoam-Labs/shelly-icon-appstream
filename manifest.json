@@ -44000,2893 +44000,3723 @@
     "src/128x128/minizip.png"
   ],
   "abi-compliance-checker": [
-    "src/output/128x128/abi-compliance-checker.png",
-    "src/output/64x64/abi-compliance-checker.png",
-    "src/output/48x48/abi-compliance-checker.png"
+    "src/128x128/abi-compliance-checker.png",
+    "src/64x64/abi-compliance-checker.png",
+    "src/48x48/abi-compliance-checker.png"
   ],
   "abseil-cpp": [
-    "src/output/128x128/abseil-cpp.png",
-    "src/output/64x64/abseil-cpp.png",
-    "src/output/48x48/abseil-cpp.png"
+    "src/128x128/abseil-cpp.png",
+    "src/64x64/abseil-cpp.png",
+    "src/48x48/abseil-cpp.png"
   ],
   "act_runner": [
-    "src/output/128x128/act_runner.png",
-    "src/output/64x64/act_runner.png",
-    "src/output/48x48/act_runner.png"
+    "src/128x128/act_runner.png",
+    "src/64x64/act_runner.png",
+    "src/48x48/act_runner.png"
   ],
   "airspy": [
-    "src/output/128x128/airspy.png",
-    "src/output/64x64/airspy.png",
-    "src/output/48x48/airspy.png"
+    "src/128x128/airspy.png",
+    "src/64x64/airspy.png",
+    "src/48x48/airspy.png"
   ],
   "akonadi": [
-    "src/output/128x128/akonadi.png",
-    "src/output/64x64/akonadi.png",
-    "src/output/48x48/akonadi.png"
+    "src/128x128/akonadi.png",
+    "src/64x64/akonadi.png",
+    "src/48x48/akonadi.png"
   ],
   "algernon": [
-    "src/output/128x128/algernon.png",
-    "src/output/64x64/algernon.png",
-    "src/output/48x48/algernon.png"
+    "src/128x128/algernon.png",
+    "src/64x64/algernon.png",
+    "src/48x48/algernon.png"
   ],
   "algol68g-doc": [
-    "src/output/128x128/algol68g-doc.png",
-    "src/output/64x64/algol68g-doc.png",
-    "src/output/48x48/algol68g-doc.png"
+    "src/128x128/algol68g-doc.png",
+    "src/64x64/algol68g-doc.png",
+    "src/48x48/algol68g-doc.png"
   ],
   "aliki": [
-    "src/output/128x128/aliki.png",
-    "src/output/64x64/aliki.png",
-    "src/output/48x48/aliki.png"
+    "src/128x128/aliki.png",
+    "src/64x64/aliki.png",
+    "src/48x48/aliki.png"
   ],
   "allegro4": [
-    "src/output/128x128/allegro4.png",
-    "src/output/64x64/allegro4.png",
-    "src/output/48x48/allegro4.png"
+    "src/128x128/allegro4.png",
+    "src/64x64/allegro4.png",
+    "src/48x48/allegro4.png"
   ],
   "allure": [
-    "src/output/128x128/allure.png",
-    "src/output/64x64/allure.png",
-    "src/output/48x48/allure.png"
+    "src/128x128/allure.png",
+    "src/64x64/allure.png",
+    "src/48x48/allure.png"
   ],
   "ananta": [
-    "src/output/128x128/ananta.png",
-    "src/output/64x64/ananta.png",
-    "src/output/48x48/ananta.png"
+    "src/128x128/ananta.png",
+    "src/64x64/ananta.png",
+    "src/48x48/ananta.png"
   ],
   "ant-doc": [
-    "src/output/128x128/ant-doc.png",
-    "src/output/64x64/ant-doc.png",
-    "src/output/48x48/ant-doc.png"
+    "src/128x128/ant-doc.png",
+    "src/64x64/ant-doc.png",
+    "src/48x48/ant-doc.png"
   ],
   "antlr4": [
-    "src/output/128x128/antlr4.png",
-    "src/output/64x64/antlr4.png",
-    "src/output/48x48/antlr4.png"
+    "src/128x128/antlr4.png",
+    "src/64x64/antlr4.png",
+    "src/48x48/antlr4.png"
   ],
   "antlr4-runtime": [
-    "src/output/128x128/antlr4.png",
-    "src/output/64x64/antlr4.png",
-    "src/output/48x48/antlr4.png"
+    "src/128x128/antlr4.png",
+    "src/64x64/antlr4.png",
+    "src/48x48/antlr4.png"
   ],
   "aom": [
-    "src/output/128x128/aom.png",
-    "src/output/64x64/aom.png",
-    "src/output/48x48/aom.png"
+    "src/128x128/aom.png",
+    "src/64x64/aom.png",
+    "src/48x48/aom.png"
   ],
   "aom-docs": [
-    "src/output/128x128/aom-docs.png",
-    "src/output/64x64/aom-docs.png",
-    "src/output/48x48/aom-docs.png"
+    "src/128x128/aom-docs.png",
+    "src/64x64/aom-docs.png",
+    "src/48x48/aom-docs.png"
   ],
   "appstream-qt": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "apptainer": [
-    "src/output/128x128/apptainer.png",
-    "src/output/64x64/apptainer.png",
-    "src/output/48x48/apptainer.png"
+    "src/128x128/apptainer.png",
+    "src/64x64/apptainer.png",
+    "src/48x48/apptainer.png"
   ],
   "apr-util": [
-    "src/output/128x128/apr-util.png",
-    "src/output/64x64/apr-util.png",
-    "src/output/48x48/apr-util.png"
+    "src/128x128/apr-util.png",
+    "src/64x64/apr-util.png",
+    "src/48x48/apr-util.png"
   ],
   "archlinux-themes-slim": [
-    "src/output/128x128/archlinux-themes-slim.png",
-    "src/output/64x64/archlinux-themes-slim.png",
-    "src/output/48x48/archlinux-themes-slim.png"
+    "src/128x128/archlinux-themes-slim.png",
+    "src/64x64/archlinux-themes-slim.png",
+    "src/48x48/archlinux-themes-slim.png"
   ],
   "argbash": [
-    "src/output/128x128/argbash.png",
-    "src/output/64x64/argbash.png",
-    "src/output/48x48/argbash.png"
+    "src/128x128/argbash.png",
+    "src/64x64/argbash.png",
+    "src/48x48/argbash.png"
   ],
   "argocd": [
-    "src/output/128x128/argocd.png",
-    "src/output/64x64/argocd.png",
-    "src/output/48x48/argocd.png"
+    "src/128x128/argocd.png",
+    "src/64x64/argocd.png",
+    "src/48x48/argocd.png"
   ],
   "aria2": [
-    "src/output/128x128/aria2.png",
-    "src/output/64x64/aria2.png",
-    "src/output/48x48/aria2.png"
+    "src/128x128/aria2.png",
+    "src/64x64/aria2.png",
+    "src/48x48/aria2.png"
   ],
   "arm-none-eabi-gcc": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "arm-none-eabi-newlib": [
-    "src/output/128x128/arm-none-eabi-newlib.png",
-    "src/output/64x64/arm-none-eabi-newlib.png",
-    "src/output/48x48/arm-none-eabi-newlib.png"
+    "src/128x128/arm-none-eabi-newlib.png",
+    "src/64x64/arm-none-eabi-newlib.png",
+    "src/48x48/arm-none-eabi-newlib.png"
   ],
   "asciinema": [
-    "src/output/128x128/asciinema.png",
-    "src/output/64x64/asciinema.png",
-    "src/output/48x48/asciinema.png"
+    "src/128x128/asciinema.png",
+    "src/64x64/asciinema.png",
+    "src/48x48/asciinema.png"
   ],
   "aspnet-runtime": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-runtime-6.0": [
-    "src/output/128x128/aspnet-runtime-6.0.png",
-    "src/output/64x64/aspnet-runtime-6.0.png",
-    "src/output/48x48/aspnet-runtime-6.0.png"
+    "src/128x128/aspnet-runtime-6.0.png",
+    "src/64x64/aspnet-runtime-6.0.png",
+    "src/48x48/aspnet-runtime-6.0.png"
   ],
   "aspnet-runtime-8.0": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-runtime-9.0": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-runtime-bin": [
-    "src/output/128x128/aspnet-runtime-6.0.png",
-    "src/output/64x64/aspnet-runtime-6.0.png",
-    "src/output/48x48/aspnet-runtime-6.0.png"
+    "src/128x128/aspnet-runtime-6.0.png",
+    "src/64x64/aspnet-runtime-6.0.png",
+    "src/48x48/aspnet-runtime-6.0.png"
   ],
   "aspnet-targeting-pack": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-targeting-pack-6.0": [
-    "src/output/128x128/aspnet-runtime-6.0.png",
-    "src/output/64x64/aspnet-runtime-6.0.png",
-    "src/output/48x48/aspnet-runtime-6.0.png"
+    "src/128x128/aspnet-runtime-6.0.png",
+    "src/64x64/aspnet-runtime-6.0.png",
+    "src/48x48/aspnet-runtime-6.0.png"
   ],
   "aspnet-targeting-pack-8.0": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-targeting-pack-9.0": [
-    "src/output/128x128/aspnet-runtime.png",
-    "src/output/64x64/aspnet-runtime.png",
-    "src/output/48x48/aspnet-runtime.png"
+    "src/128x128/aspnet-runtime.png",
+    "src/64x64/aspnet-runtime.png",
+    "src/48x48/aspnet-runtime.png"
   ],
   "aspnet-targeting-pack-bin": [
-    "src/output/128x128/aspnet-runtime-6.0.png",
-    "src/output/64x64/aspnet-runtime-6.0.png",
-    "src/output/48x48/aspnet-runtime-6.0.png"
+    "src/128x128/aspnet-runtime-6.0.png",
+    "src/64x64/aspnet-runtime-6.0.png",
+    "src/48x48/aspnet-runtime-6.0.png"
   ],
   "ast-grep": [
-    "src/output/128x128/ast-grep.png",
-    "src/output/64x64/ast-grep.png",
-    "src/output/48x48/ast-grep.png"
+    "src/128x128/ast-grep.png",
+    "src/64x64/ast-grep.png",
+    "src/48x48/ast-grep.png"
   ],
   "asusctl": [
-    "src/output/128x128/asusctl.png",
-    "src/output/64x64/asusctl.png",
-    "src/output/48x48/asusctl.png"
+    "src/128x128/asusctl.png",
+    "src/64x64/asusctl.png",
+    "src/48x48/asusctl.png"
   ],
   "audacious-plugins": [
-    "src/output/128x128/audacious-plugins.png",
-    "src/output/64x64/audacious-plugins.png",
-    "src/output/48x48/audacious-plugins.png"
+    "src/128x128/audacious-plugins.png",
+    "src/64x64/audacious-plugins.png",
+    "src/48x48/audacious-plugins.png"
   ],
   "audacity-docs": [
-    "src/output/128x128/audacity-docs.png",
-    "src/output/64x64/audacity-docs.png",
-    "src/output/48x48/audacity-docs.png"
+    "src/128x128/audacity-docs.png",
+    "src/64x64/audacity-docs.png",
+    "src/48x48/audacity-docs.png"
   ],
   "avidemux-cli": [
-    "src/output/128x128/avidemux-cli.png",
-    "src/output/64x64/avidemux-cli.png",
-    "src/output/48x48/avidemux-cli.png"
+    "src/128x128/avidemux-cli.png",
+    "src/64x64/avidemux-cli.png",
+    "src/48x48/avidemux-cli.png"
   ],
   "avldrums.lv2": [
-    "src/output/128x128/avldrums.lv2.png",
-    "src/output/64x64/avldrums.lv2.png",
-    "src/output/48x48/avldrums.lv2.png"
+    "src/128x128/avldrums.lv2.png",
+    "src/64x64/avldrums.lv2.png",
+    "src/48x48/avldrums.lv2.png"
   ],
   "avogadrolibs-qt": [
-    "src/output/128x128/avogadrolibs-qt.png",
-    "src/output/64x64/avogadrolibs-qt.png",
-    "src/output/48x48/avogadrolibs-qt.png"
+    "src/128x128/avogadrolibs-qt.png",
+    "src/64x64/avogadrolibs-qt.png",
+    "src/48x48/avogadrolibs-qt.png"
   ],
   "avr-gcc": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "awesome": [
-    "src/output/128x128/awesome.png",
-    "src/output/64x64/awesome.png",
-    "src/output/48x48/awesome.png"
+    "src/128x128/awesome.png",
+    "src/64x64/awesome.png",
+    "src/48x48/awesome.png"
   ],
   "babel-core": [
-    "src/output/128x128/babel-core.png",
-    "src/output/64x64/babel-core.png",
-    "src/output/48x48/babel-core.png"
+    "src/128x128/babel-core.png",
+    "src/64x64/babel-core.png",
+    "src/48x48/babel-core.png"
   ],
   "betterbird-de-bin": [
-    "src/output/128x128/betterbird-de-bin.png",
-    "src/output/64x64/betterbird-de-bin.png",
-    "src/output/48x48/betterbird-de-bin.png"
+    "src/128x128/betterbird-de-bin.png",
+    "src/64x64/betterbird-de-bin.png",
+    "src/48x48/betterbird-de-bin.png"
   ],
   "bind": [
-    "src/output/128x128/bind.png",
-    "src/output/64x64/bind.png",
-    "src/output/48x48/bind.png"
+    "src/128x128/bind.png",
+    "src/64x64/bind.png",
+    "src/48x48/bind.png"
   ],
   "bitcoin-tx": [
-    "src/output/128x128/bitcoin-tx.png",
-    "src/output/64x64/bitcoin-tx.png",
-    "src/output/48x48/bitcoin-tx.png"
+    "src/128x128/bitcoin-tx.png",
+    "src/64x64/bitcoin-tx.png",
+    "src/48x48/bitcoin-tx.png"
   ],
   "blaze": [
-    "src/output/128x128/blaze.png",
-    "src/output/64x64/blaze.png",
-    "src/output/48x48/blaze.png"
+    "src/128x128/blaze.png",
+    "src/64x64/blaze.png",
+    "src/48x48/blaze.png"
   ],
   "blosc": [
-    "src/output/128x128/blosc.png",
-    "src/output/64x64/blosc.png",
-    "src/output/48x48/blosc.png"
+    "src/128x128/blosc.png",
+    "src/64x64/blosc.png",
+    "src/48x48/blosc.png"
   ],
   "blosc2": [
-    "src/output/128x128/blosc.png",
-    "src/output/64x64/blosc.png",
-    "src/output/48x48/blosc.png"
+    "src/128x128/blosc.png",
+    "src/64x64/blosc.png",
+    "src/48x48/blosc.png"
   ],
   "bnfc": [
-    "src/output/128x128/bnfc.png",
-    "src/output/64x64/bnfc.png",
-    "src/output/48x48/bnfc.png"
+    "src/128x128/bnfc.png",
+    "src/64x64/bnfc.png",
+    "src/48x48/bnfc.png"
   ],
   "boinc-nox": [
-    "src/output/128x128/boinc-nox.png",
-    "src/output/64x64/boinc-nox.png",
-    "src/output/48x48/boinc-nox.png"
+    "src/128x128/boinc-nox.png",
+    "src/64x64/boinc-nox.png",
+    "src/48x48/boinc-nox.png"
   ],
   "broadcom-wl": [
-    "src/output/128x128/broadcom-wl.png",
-    "src/output/64x64/broadcom-wl.png",
-    "src/output/48x48/broadcom-wl.png"
+    "src/128x128/broadcom-wl.png",
+    "src/64x64/broadcom-wl.png",
+    "src/48x48/broadcom-wl.png"
   ],
   "broadcom-wl-dkms": [
-    "src/output/128x128/broadcom-wl.png",
-    "src/output/64x64/broadcom-wl.png",
-    "src/output/48x48/broadcom-wl.png"
+    "src/128x128/broadcom-wl.png",
+    "src/64x64/broadcom-wl.png",
+    "src/48x48/broadcom-wl.png"
   ],
   "budgie-desktop-services": [
-    "src/output/128x128/budgie-desktop-services.png",
-    "src/output/64x64/budgie-desktop-services.png",
-    "src/output/48x48/budgie-desktop-services.png"
+    "src/128x128/budgie-desktop-services.png",
+    "src/64x64/budgie-desktop-services.png",
+    "src/48x48/budgie-desktop-services.png"
   ],
   "buf": [
-    "src/output/128x128/buf.png",
-    "src/output/64x64/buf.png",
-    "src/output/48x48/buf.png"
+    "src/128x128/buf.png",
+    "src/64x64/buf.png",
+    "src/48x48/buf.png"
   ],
   "bugzilla": [
-    "src/output/128x128/bugzilla.png",
-    "src/output/64x64/bugzilla.png",
-    "src/output/48x48/bugzilla.png"
+    "src/128x128/bugzilla.png",
+    "src/64x64/bugzilla.png",
+    "src/48x48/bugzilla.png"
   ],
   "bullet-docs": [
-    "src/output/128x128/bullet-docs.png",
-    "src/output/64x64/bullet-docs.png",
-    "src/output/48x48/bullet-docs.png"
+    "src/128x128/bullet-docs.png",
+    "src/64x64/bullet-docs.png",
+    "src/48x48/bullet-docs.png"
   ],
   "bullet-dp": [
-    "src/output/128x128/bullet-docs.png",
-    "src/output/64x64/bullet-docs.png",
-    "src/output/48x48/bullet-docs.png"
+    "src/128x128/bullet-docs.png",
+    "src/64x64/bullet-docs.png",
+    "src/48x48/bullet-docs.png"
   ],
   "cabal-install": [
-    "src/output/128x128/cabal-install.png",
-    "src/output/64x64/cabal-install.png",
-    "src/output/48x48/cabal-install.png"
+    "src/128x128/cabal-install.png",
+    "src/64x64/cabal-install.png",
+    "src/48x48/cabal-install.png"
   ],
   "cacti": [
-    "src/output/128x128/cacti.png",
-    "src/output/64x64/cacti.png",
-    "src/output/48x48/cacti.png"
+    "src/128x128/cacti.png",
+    "src/64x64/cacti.png",
+    "src/48x48/cacti.png"
   ],
   "caja": [
-    "src/output/128x128/caja.png",
-    "src/output/64x64/caja.png",
-    "src/output/48x48/caja.png"
+    "src/128x128/caja.png",
+    "src/64x64/caja.png",
+    "src/48x48/caja.png"
   ],
   "caja-actions": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-audio-video-properties": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-extensions-common": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-image-converter": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-open-terminal": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-sendto": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-share": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-wallpaper": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "caja-xattr-tags": [
-    "src/output/128x128/caja-actions.png",
-    "src/output/64x64/caja-actions.png",
-    "src/output/48x48/caja-actions.png"
+    "src/128x128/caja-actions.png",
+    "src/64x64/caja-actions.png",
+    "src/48x48/caja-actions.png"
   ],
   "capnproto": [
-    "src/output/128x128/capnproto.png",
-    "src/output/64x64/capnproto.png",
-    "src/output/48x48/capnproto.png"
+    "src/128x128/capnproto.png",
+    "src/64x64/capnproto.png",
+    "src/48x48/capnproto.png"
   ],
   "capstone": [
-    "src/output/128x128/capstone.png",
-    "src/output/64x64/capstone.png",
-    "src/output/48x48/capstone.png"
+    "src/128x128/capstone.png",
+    "src/64x64/capstone.png",
+    "src/48x48/capstone.png"
   ],
   "ccid": [
-    "src/output/128x128/ccid.png",
-    "src/output/64x64/ccid.png",
-    "src/output/48x48/ccid.png"
+    "src/128x128/ccid.png",
+    "src/64x64/ccid.png",
+    "src/48x48/ccid.png"
   ],
   "certbot-apache": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-cloudflare": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-digitalocean": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-dnsmadeeasy": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-google": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-ovh": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-rfc2136": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-route53": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "certbot-dns-sakuracloud": [
-    "src/output/128x128/certbot-apache.png",
-    "src/output/64x64/certbot-apache.png",
-    "src/output/48x48/certbot-apache.png"
+    "src/128x128/certbot-apache.png",
+    "src/64x64/certbot-apache.png",
+    "src/48x48/certbot-apache.png"
   ],
   "cgit": [
-    "src/output/128x128/cgit.png",
-    "src/output/64x64/cgit.png",
-    "src/output/48x48/cgit.png"
+    "src/128x128/cgit.png",
+    "src/64x64/cgit.png",
+    "src/48x48/cgit.png"
   ],
   "cgit-aurweb": [
-    "src/output/128x128/cgit.png",
-    "src/output/64x64/cgit.png",
-    "src/output/48x48/cgit.png"
+    "src/128x128/cgit.png",
+    "src/64x64/cgit.png",
+    "src/48x48/cgit.png"
   ],
   "cl-swank": [
-    "src/output/128x128/cl-swank.png",
-    "src/output/64x64/cl-swank.png",
-    "src/output/48x48/cl-swank.png"
+    "src/128x128/cl-swank.png",
+    "src/64x64/cl-swank.png",
+    "src/48x48/cl-swank.png"
   ],
   "clonezilla": [
-    "src/output/128x128/clonezilla.png",
-    "src/output/64x64/clonezilla.png",
-    "src/output/48x48/clonezilla.png"
+    "src/128x128/clonezilla.png",
+    "src/64x64/clonezilla.png",
+    "src/48x48/clonezilla.png"
   ],
   "clthreads": [
-    "src/output/128x128/aliki.png",
-    "src/output/64x64/aliki.png",
-    "src/output/48x48/aliki.png"
+    "src/128x128/aliki.png",
+    "src/64x64/aliki.png",
+    "src/48x48/aliki.png"
   ],
   "clxclient": [
-    "src/output/128x128/aliki.png",
-    "src/output/64x64/aliki.png",
-    "src/output/48x48/aliki.png"
+    "src/128x128/aliki.png",
+    "src/64x64/aliki.png",
+    "src/48x48/aliki.png"
   ],
   "cockpit-packagekit": [
-    "src/output/128x128/cockpit-packagekit.png",
-    "src/output/64x64/cockpit-packagekit.png",
-    "src/output/48x48/cockpit-packagekit.png"
+    "src/128x128/cockpit-packagekit.png",
+    "src/64x64/cockpit-packagekit.png",
+    "src/48x48/cockpit-packagekit.png"
   ],
   "cockpit-storaged": [
-    "src/output/128x128/cockpit-packagekit.png",
-    "src/output/64x64/cockpit-packagekit.png",
-    "src/output/48x48/cockpit-packagekit.png"
+    "src/128x128/cockpit-packagekit.png",
+    "src/64x64/cockpit-packagekit.png",
+    "src/48x48/cockpit-packagekit.png"
   ],
   "colord": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "colord-docs": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "colord-gtk": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "colord-gtk-common": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "colord-gtk4": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "colord-sane": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "cppunit": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "csfml": [
-    "src/output/128x128/csfml.png",
-    "src/output/64x64/csfml.png",
-    "src/output/48x48/csfml.png"
+    "src/128x128/csfml.png",
+    "src/64x64/csfml.png",
+    "src/48x48/csfml.png"
   ],
   "csound": [
-    "src/output/128x128/csound.png",
-    "src/output/64x64/csound.png",
-    "src/output/48x48/csound.png"
+    "src/128x128/csound.png",
+    "src/64x64/csound.png",
+    "src/48x48/csound.png"
   ],
   "csound-doc": [
-    "src/output/128x128/csound.png",
-    "src/output/64x64/csound.png",
-    "src/output/48x48/csound.png"
+    "src/128x128/csound.png",
+    "src/64x64/csound.png",
+    "src/48x48/csound.png"
   ],
   "cudss": [
-    "src/output/128x128/cudss.png",
-    "src/output/64x64/cudss.png",
-    "src/output/48x48/cudss.png"
+    "src/128x128/cudss.png",
+    "src/64x64/cudss.png",
+    "src/48x48/cudss.png"
   ],
   "cups-pk-helper": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "curl-rustls": [
-    "src/output/128x128/curl-rustls.png",
-    "src/output/64x64/curl-rustls.png",
-    "src/output/48x48/curl-rustls.png"
+    "src/128x128/curl-rustls.png",
+    "src/64x64/curl-rustls.png",
+    "src/48x48/curl-rustls.png"
   ],
   "d2": [
-    "src/output/128x128/d2.png",
-    "src/output/64x64/d2.png",
-    "src/output/48x48/d2.png"
+    "src/128x128/d2.png",
+    "src/64x64/d2.png",
+    "src/48x48/d2.png"
   ],
   "db5.3": [
-    "src/output/128x128/db5.3.png",
-    "src/output/64x64/db5.3.png",
-    "src/output/48x48/db5.3.png"
+    "src/128x128/db5.3.png",
+    "src/64x64/db5.3.png",
+    "src/48x48/db5.3.png"
   ],
   "dbus": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "dbus-daemon-units": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "dbus-docs": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "dbus-glib": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "dcmtk": [
-    "src/output/128x128/dcmtk.png",
-    "src/output/64x64/dcmtk.png",
-    "src/output/48x48/dcmtk.png"
+    "src/128x128/dcmtk.png",
+    "src/64x64/dcmtk.png",
+    "src/48x48/dcmtk.png"
   ],
   "dcmtk-docs": [
-    "src/output/128x128/dcmtk.png",
-    "src/output/64x64/dcmtk.png",
-    "src/output/48x48/dcmtk.png"
+    "src/128x128/dcmtk.png",
+    "src/64x64/dcmtk.png",
+    "src/48x48/dcmtk.png"
   ],
   "debootstrap": [
-    "src/output/128x128/debootstrap.png",
-    "src/output/64x64/debootstrap.png",
-    "src/output/48x48/debootstrap.png"
+    "src/128x128/debootstrap.png",
+    "src/64x64/debootstrap.png",
+    "src/48x48/debootstrap.png"
   ],
   "desktop-file-utils": [
-    "src/output/128x128/appstream-qt.png",
-    "src/output/64x64/appstream-qt.png",
-    "src/output/48x48/appstream-qt.png"
+    "src/128x128/appstream-qt.png",
+    "src/64x64/appstream-qt.png",
+    "src/48x48/appstream-qt.png"
   ],
   "dhall-bash": [
-    "src/output/128x128/dhall-bash.png",
-    "src/output/64x64/dhall-bash.png",
-    "src/output/48x48/dhall-bash.png"
+    "src/128x128/dhall-bash.png",
+    "src/64x64/dhall-bash.png",
+    "src/48x48/dhall-bash.png"
   ],
   "dhall-json": [
-    "src/output/128x128/dhall-bash.png",
-    "src/output/64x64/dhall-bash.png",
-    "src/output/48x48/dhall-bash.png"
+    "src/128x128/dhall-bash.png",
+    "src/64x64/dhall-bash.png",
+    "src/48x48/dhall-bash.png"
   ],
   "dhcp": [
-    "src/output/128x128/dhcp.png",
-    "src/output/64x64/dhcp.png",
-    "src/output/48x48/dhcp.png"
+    "src/128x128/dhcp.png",
+    "src/64x64/dhcp.png",
+    "src/48x48/dhcp.png"
   ],
   "dmenu": [
-    "src/output/128x128/dmenu.png",
-    "src/output/64x64/dmenu.png",
-    "src/output/48x48/dmenu.png"
+    "src/128x128/dmenu.png",
+    "src/64x64/dmenu.png",
+    "src/48x48/dmenu.png"
   ],
   "docker": [
-    "src/output/128x128/docker.png",
-    "src/output/64x64/docker.png",
-    "src/output/48x48/docker.png"
+    "src/128x128/docker.png",
+    "src/64x64/docker.png",
+    "src/48x48/docker.png"
   ],
   "docker-compose": [
-    "src/output/128x128/docker.png",
-    "src/output/64x64/docker.png",
-    "src/output/48x48/docker.png"
+    "src/128x128/docker.png",
+    "src/64x64/docker.png",
+    "src/48x48/docker.png"
   ],
   "dolphin-emu-tool": [
-    "src/output/128x128/dolphin-emu-tool.png",
-    "src/output/64x64/dolphin-emu-tool.png",
-    "src/output/48x48/dolphin-emu-tool.png"
+    "src/128x128/dolphin-emu-tool.png",
+    "src/64x64/dolphin-emu-tool.png",
+    "src/48x48/dolphin-emu-tool.png"
   ],
   "dolt": [
-    "src/output/128x128/dolt.png",
-    "src/output/64x64/dolt.png",
-    "src/output/48x48/dolt.png"
+    "src/128x128/dolt.png",
+    "src/64x64/dolt.png",
+    "src/48x48/dolt.png"
   ],
   "dos2unix": [
-    "src/output/128x128/dos2unix.png",
-    "src/output/64x64/dos2unix.png",
-    "src/output/48x48/dos2unix.png"
+    "src/128x128/dos2unix.png",
+    "src/64x64/dos2unix.png",
+    "src/48x48/dos2unix.png"
   ],
   "dovecot23": [
-    "src/output/128x128/dovecot23.png",
-    "src/output/64x64/dovecot23.png",
-    "src/output/48x48/dovecot23.png"
+    "src/128x128/dovecot23.png",
+    "src/64x64/dovecot23.png",
+    "src/48x48/dovecot23.png"
   ],
   "doxygen": [
-    "src/output/128x128/doxygen.png",
-    "src/output/64x64/doxygen.png",
-    "src/output/48x48/doxygen.png"
+    "src/128x128/doxygen.png",
+    "src/64x64/doxygen.png",
+    "src/48x48/doxygen.png"
   ],
   "doxygen-docs": [
-    "src/output/128x128/doxygen.png",
-    "src/output/64x64/doxygen.png",
-    "src/output/48x48/doxygen.png"
+    "src/128x128/doxygen.png",
+    "src/64x64/doxygen.png",
+    "src/48x48/doxygen.png"
   ],
   "dpkg": [
-    "src/output/128x128/debootstrap.png",
-    "src/output/64x64/debootstrap.png",
-    "src/output/48x48/debootstrap.png"
+    "src/128x128/debootstrap.png",
+    "src/64x64/debootstrap.png",
+    "src/48x48/debootstrap.png"
   ],
   "dracula-xresources-git": [
-    "src/output/128x128/dracula-xresources-git.png",
-    "src/output/64x64/dracula-xresources-git.png",
-    "src/output/48x48/dracula-xresources-git.png"
+    "src/128x128/dracula-xresources-git.png",
+    "src/64x64/dracula-xresources-git.png",
+    "src/48x48/dracula-xresources-git.png"
   ],
   "dragonfly-reverb": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "dragonfly-reverb-clap": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "dragonfly-reverb-lv2": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "dragonfly-reverb-standalone": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "dragonfly-reverb-vst": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "dragonfly-reverb-vst3": [
-    "src/output/128x128/dragonfly-reverb.png",
-    "src/output/64x64/dragonfly-reverb.png",
-    "src/output/48x48/dragonfly-reverb.png"
+    "src/128x128/dragonfly-reverb.png",
+    "src/64x64/dragonfly-reverb.png",
+    "src/48x48/dragonfly-reverb.png"
   ],
   "drone-cli": [
-    "src/output/128x128/drone-cli.png",
-    "src/output/64x64/drone-cli.png",
-    "src/output/48x48/drone-cli.png"
+    "src/128x128/drone-cli.png",
+    "src/64x64/drone-cli.png",
+    "src/48x48/drone-cli.png"
   ],
   "drone-oss": [
-    "src/output/128x128/drone-oss.png",
-    "src/output/64x64/drone-oss.png",
-    "src/output/48x48/drone-oss.png"
+    "src/128x128/drone-oss.png",
+    "src/64x64/drone-oss.png",
+    "src/48x48/drone-oss.png"
   ],
   "drumkv1-lv2": [
-    "src/output/128x128/drumkv1-lv2.png",
-    "src/output/64x64/drumkv1-lv2.png",
-    "src/output/48x48/drumkv1-lv2.png"
+    "src/128x128/drumkv1-lv2.png",
+    "src/64x64/drumkv1-lv2.png",
+    "src/48x48/drumkv1-lv2.png"
   ],
   "drupal": [
-    "src/output/128x128/drupal.png",
-    "src/output/64x64/drupal.png",
-    "src/output/48x48/drupal.png"
+    "src/128x128/drupal.png",
+    "src/64x64/drupal.png",
+    "src/48x48/drupal.png"
   ],
   "dtc": [
-    "src/output/128x128/dtc.png",
-    "src/output/64x64/dtc.png",
-    "src/output/48x48/dtc.png"
+    "src/128x128/dtc.png",
+    "src/64x64/dtc.png",
+    "src/48x48/dtc.png"
   ],
   "dvtm": [
-    "src/output/128x128/dvtm.png",
-    "src/output/64x64/dvtm.png",
-    "src/output/48x48/dvtm.png"
+    "src/128x128/dvtm.png",
+    "src/64x64/dvtm.png",
+    "src/48x48/dvtm.png"
   ],
   "e16-themes": [
-    "src/output/128x128/e16-themes.png",
-    "src/output/64x64/e16-themes.png",
-    "src/output/48x48/e16-themes.png"
+    "src/128x128/e16-themes.png",
+    "src/64x64/e16-themes.png",
+    "src/48x48/e16-themes.png"
   ],
   "ebumeter-docs": [
-    "src/output/128x128/aliki.png",
-    "src/output/64x64/aliki.png",
-    "src/output/48x48/aliki.png"
+    "src/128x128/aliki.png",
+    "src/64x64/aliki.png",
+    "src/48x48/aliki.png"
   ],
   "efl-docs": [
-    "src/output/128x128/efl-docs.png",
-    "src/output/64x64/efl-docs.png",
-    "src/output/48x48/efl-docs.png"
+    "src/128x128/efl-docs.png",
+    "src/64x64/efl-docs.png",
+    "src/48x48/efl-docs.png"
   ],
   "eigen3": [
-    "src/output/128x128/eigen3.png",
-    "src/output/64x64/eigen3.png",
-    "src/output/48x48/eigen3.png"
+    "src/128x128/eigen3.png",
+    "src/64x64/eigen3.png",
+    "src/48x48/eigen3.png"
   ],
   "electron": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron31": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron34": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron35": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron36": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron37": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron38": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "electron39": [
-    "src/output/128x128/electron.png",
-    "src/output/64x64/electron.png",
-    "src/output/48x48/electron.png"
+    "src/128x128/electron.png",
+    "src/64x64/electron.png",
+    "src/48x48/electron.png"
   ],
   "element-web": [
-    "src/output/128x128/element-web.png",
-    "src/output/64x64/element-web.png",
-    "src/output/48x48/element-web.png"
+    "src/128x128/element-web.png",
+    "src/64x64/element-web.png",
+    "src/48x48/element-web.png"
   ],
   "embree": [
-    "src/output/128x128/embree.png",
-    "src/output/64x64/embree.png",
-    "src/output/48x48/embree.png"
+    "src/128x128/embree.png",
+    "src/64x64/embree.png",
+    "src/48x48/embree.png"
   ],
   "embree3": [
-    "src/output/128x128/embree.png",
-    "src/output/64x64/embree.png",
-    "src/output/48x48/embree.png"
+    "src/128x128/embree.png",
+    "src/64x64/embree.png",
+    "src/48x48/embree.png"
   ],
   "emby-ffmpeg": [
-    "src/output/128x128/emby-ffmpeg.png",
-    "src/output/64x64/emby-ffmpeg.png",
-    "src/output/48x48/emby-ffmpeg.png"
+    "src/128x128/emby-ffmpeg.png",
+    "src/64x64/emby-ffmpeg.png",
+    "src/48x48/emby-ffmpeg.png"
   ],
   "emby-server": [
-    "src/output/128x128/emby-ffmpeg.png",
-    "src/output/64x64/emby-ffmpeg.png",
-    "src/output/48x48/emby-ffmpeg.png"
+    "src/128x128/emby-ffmpeg.png",
+    "src/64x64/emby-ffmpeg.png",
+    "src/48x48/emby-ffmpeg.png"
   ],
   "emby-theater": [
-    "src/output/128x128/emby-ffmpeg.png",
-    "src/output/64x64/emby-ffmpeg.png",
-    "src/output/48x48/emby-ffmpeg.png"
+    "src/128x128/emby-ffmpeg.png",
+    "src/64x64/emby-ffmpeg.png",
+    "src/48x48/emby-ffmpeg.png"
   ],
   "enlightenment": [
-    "src/output/128x128/efl-docs.png",
-    "src/output/64x64/efl-docs.png",
-    "src/output/48x48/efl-docs.png"
+    "src/128x128/efl-docs.png",
+    "src/64x64/efl-docs.png",
+    "src/48x48/efl-docs.png"
   ],
   "erlang-asn1": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-common_test": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-core": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-debugger": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-dialyzer": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-diameter": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-edoc": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-eldap": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-erl_interface": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-et": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-eunit": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-ftp": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-headless": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-inets": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-jinterface": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-megaco": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-mnesia": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-observer": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-odbc": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-os_mon": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-parsetools": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-public_key": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-reltool": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-runtime_tools": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-sasl": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-snmp": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-ssh": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-ssl": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-syntax_tools": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-tftp": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-tools": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-wx": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "erlang-xmerl": [
-    "src/output/128x128/erlang-asn1.png",
-    "src/output/64x64/erlang-asn1.png",
-    "src/output/48x48/erlang-asn1.png"
+    "src/128x128/erlang-asn1.png",
+    "src/64x64/erlang-asn1.png",
+    "src/48x48/erlang-asn1.png"
   ],
   "etl": [
-    "src/output/128x128/etl.png",
-    "src/output/64x64/etl.png",
-    "src/output/48x48/etl.png"
+    "src/128x128/etl.png",
+    "src/64x64/etl.png",
+    "src/48x48/etl.png"
   ],
   "faust": [
-    "src/output/128x128/faust.png",
-    "src/output/64x64/faust.png",
-    "src/output/48x48/faust.png"
+    "src/128x128/faust.png",
+    "src/64x64/faust.png",
+    "src/48x48/faust.png"
   ],
   "fcgiwrap": [
-    "src/output/128x128/fcgiwrap.png",
-    "src/output/64x64/fcgiwrap.png",
-    "src/output/48x48/fcgiwrap.png"
+    "src/128x128/fcgiwrap.png",
+    "src/64x64/fcgiwrap.png",
+    "src/48x48/fcgiwrap.png"
   ],
   "filen-desktop-bin": [
-    "src/output/128x128/filen-desktop-bin.png",
-    "src/output/64x64/filen-desktop-bin.png",
-    "src/output/48x48/filen-desktop-bin.png"
+    "src/128x128/filen-desktop-bin.png",
+    "src/64x64/filen-desktop-bin.png",
+    "src/48x48/filen-desktop-bin.png"
   ],
   "fillets-ng-data": [
-    "src/output/128x128/fillets-ng-data.png",
-    "src/output/64x64/fillets-ng-data.png",
-    "src/output/48x48/fillets-ng-data.png"
+    "src/128x128/fillets-ng-data.png",
+    "src/64x64/fillets-ng-data.png",
+    "src/48x48/fillets-ng-data.png"
   ],
   "firefox-adblock-plus": [
-    "src/output/128x128/firefox-adblock-plus.png",
-    "src/output/64x64/firefox-adblock-plus.png",
-    "src/output/48x48/firefox-adblock-plus.png"
+    "src/128x128/firefox-adblock-plus.png",
+    "src/64x64/firefox-adblock-plus.png",
+    "src/48x48/firefox-adblock-plus.png"
   ],
   "firefox-developer-edition-i18n-ach": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-af": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-an": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ar": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ast": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-az": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-be": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-bg": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-bn": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-br": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-bs": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ca": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ca-valencia": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-cak": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-cs": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-cy": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-da": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-de": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-dsb": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-el": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-en-ca": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-en-gb": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-en-us": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-eo": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-es-ar": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-es-cl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-es-es": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-es-mx": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-et": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-eu": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-fa": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ff": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-fi": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-fr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-fur": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-fy-nl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ga-ie": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-gd": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-gl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-gn": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-gu-in": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-he": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-hi-in": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-hr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-hsb": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-hu": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-hy-am": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ia": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-id": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-is": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-it": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ja": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ka": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-kab": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-kk": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-km": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-kn": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ko": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-lij": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-lt": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-lv": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-mk": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-mr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ms": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-my": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-nb-no": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ne-np": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-nl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-nn-no": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-oc": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-pa-in": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-pl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-pt-br": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-pt-pt": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-rm": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ro": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ru": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sat": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sc": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sco": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-si": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sk": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-skr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-son": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sq": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-sv-se": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-szl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ta": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-te": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-tg": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-th": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-tl": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-tr": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-trs": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-uk": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-ur": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-uz": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-vi": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-xh": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-zh-cn": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-developer-edition-i18n-zh-tw": [
-    "src/output/128x128/firefox-developer-edition-i18n-ach.png",
-    "src/output/64x64/firefox-developer-edition-i18n-ach.png",
-    "src/output/48x48/firefox-developer-edition-i18n-ach.png"
+    "src/128x128/firefox-developer-edition-i18n-ach.png",
+    "src/64x64/firefox-developer-edition-i18n-ach.png",
+    "src/48x48/firefox-developer-edition-i18n-ach.png"
   ],
   "firefox-esr-bin": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-extension-mailvelope": [
-    "src/output/128x128/firefox-extension-mailvelope.png",
-    "src/output/64x64/firefox-extension-mailvelope.png",
-    "src/output/48x48/firefox-extension-mailvelope.png"
+    "src/128x128/firefox-extension-mailvelope.png",
+    "src/64x64/firefox-extension-mailvelope.png",
+    "src/48x48/firefox-extension-mailvelope.png"
   ],
   "firefox-i18n-ach": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-af": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-an": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ar": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ast": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-az": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-be": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-bg": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-bn": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-br": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-bs": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ca": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ca-valencia": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-cak": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-cs": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-cy": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-da": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-de": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-dsb": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-el": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-en-ca": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-en-gb": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-en-us": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-eo": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-es-ar": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-es-cl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-es-es": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-es-mx": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-et": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-eu": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-fa": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ff": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-fi": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-fr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-fur": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-fy-nl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ga-ie": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-gd": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-gl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-gn": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-gu-in": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-he": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-hi-in": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-hr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-hsb": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-hu": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-hy-am": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ia": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-id": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-is": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-it": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ja": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ka": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-kab": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-kk": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-km": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-kn": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ko": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-lij": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-lt": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-lv": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-mk": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-mr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ms": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-my": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-nb-no": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ne-np": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-nl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-nn-no": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-oc": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-pa-in": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-pl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-pt-br": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-pt-pt": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-rm": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ro": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ru": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sat": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sc": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sco": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-si": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sk": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-skr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-son": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sq": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-sv-se": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-szl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ta": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-te": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-tg": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-th": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-tl": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-tr": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-trs": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-uk": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-ur": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-uz": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-vi": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-xh": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-zh-cn": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-i18n-zh-tw": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-pure": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-pure-debug": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firefox-wayland-cachy-hg": [
-    "src/output/128x128/firefox-esr-bin.png",
-    "src/output/64x64/firefox-esr-bin.png",
-    "src/output/48x48/firefox-esr-bin.png"
+    "src/128x128/firefox-esr-bin.png",
+    "src/64x64/firefox-esr-bin.png",
+    "src/48x48/firefox-esr-bin.png"
   ],
   "firewall-config": [
-    "src/output/128x128/firewall-config.png",
-    "src/output/64x64/firewall-config.png",
-    "src/output/48x48/firewall-config.png"
+    "src/128x128/firewall-config.png",
+    "src/64x64/firewall-config.png",
+    "src/48x48/firewall-config.png"
   ],
   "firewalld-test": [
-    "src/output/128x128/firewall-config.png",
-    "src/output/64x64/firewall-config.png",
-    "src/output/48x48/firewall-config.png"
+    "src/128x128/firewall-config.png",
+    "src/64x64/firewall-config.png",
+    "src/48x48/firewall-config.png"
   ],
   "flatbuffers": [
-    "src/output/128x128/flatbuffers.png",
-    "src/output/64x64/flatbuffers.png",
-    "src/output/48x48/flatbuffers.png"
+    "src/128x128/flatbuffers.png",
+    "src/64x64/flatbuffers.png",
+    "src/48x48/flatbuffers.png"
   ],
   "flatpak": [
-    "src/output/128x128/flatpak.png",
-    "src/output/64x64/flatpak.png",
-    "src/output/48x48/flatpak.png"
+    "src/128x128/flatpak.png",
+    "src/64x64/flatpak.png",
+    "src/48x48/flatpak.png"
   ],
   "flatpak-builder": [
-    "src/output/128x128/flatpak.png",
-    "src/output/64x64/flatpak.png",
-    "src/output/48x48/flatpak.png"
+    "src/128x128/flatpak.png",
+    "src/64x64/flatpak.png",
+    "src/48x48/flatpak.png"
   ],
   "flatpak-docs": [
-    "src/output/128x128/flatpak.png",
-    "src/output/64x64/flatpak.png",
-    "src/output/48x48/flatpak.png"
+    "src/128x128/flatpak.png",
+    "src/64x64/flatpak.png",
+    "src/48x48/flatpak.png"
   ],
   "fnlfmt": [
-    "src/output/128x128/ananta.png",
-    "src/output/64x64/ananta.png",
-    "src/output/48x48/ananta.png"
+    "src/128x128/ananta.png",
+    "src/64x64/ananta.png",
+    "src/48x48/ananta.png"
   ],
   "freeciv-common": [
-    "src/output/128x128/freeciv-common.png",
-    "src/output/64x64/freeciv-common.png",
-    "src/output/48x48/freeciv-common.png"
+    "src/128x128/freeciv-common.png",
+    "src/64x64/freeciv-common.png",
+    "src/48x48/freeciv-common.png"
   ],
   "freeciv-gtk3": [
-    "src/output/128x128/freeciv-common.png",
-    "src/output/64x64/freeciv-common.png",
-    "src/output/48x48/freeciv-common.png"
+    "src/128x128/freeciv-common.png",
+    "src/64x64/freeciv-common.png",
+    "src/48x48/freeciv-common.png"
   ],
   "freeciv-gtk4": [
-    "src/output/128x128/freeciv-common.png",
-    "src/output/64x64/freeciv-common.png",
-    "src/output/48x48/freeciv-common.png"
+    "src/128x128/freeciv-common.png",
+    "src/64x64/freeciv-common.png",
+    "src/48x48/freeciv-common.png"
   ],
   "freeciv-qt": [
-    "src/output/128x128/freeciv-common.png",
-    "src/output/64x64/freeciv-common.png",
-    "src/output/48x48/freeciv-common.png"
+    "src/128x128/freeciv-common.png",
+    "src/64x64/freeciv-common.png",
+    "src/48x48/freeciv-common.png"
   ],
   "freetype2": [
-    "src/output/128x128/freetype2.png",
-    "src/output/64x64/freetype2.png",
-    "src/output/48x48/freetype2.png"
+    "src/128x128/freetype2.png",
+    "src/64x64/freetype2.png",
+    "src/48x48/freetype2.png"
   ],
   "freetype2-demos": [
-    "src/output/128x128/freetype2.png",
-    "src/output/64x64/freetype2.png",
-    "src/output/48x48/freetype2.png"
+    "src/128x128/freetype2.png",
+    "src/64x64/freetype2.png",
+    "src/48x48/freetype2.png"
   ],
   "freetype2-docs": [
-    "src/output/128x128/freetype2.png",
-    "src/output/64x64/freetype2.png",
-    "src/output/48x48/freetype2.png"
+    "src/128x128/freetype2.png",
+    "src/64x64/freetype2.png",
+    "src/48x48/freetype2.png"
   ],
   "frei0r-plugins": [
-    "src/output/128x128/frei0r-plugins.png",
-    "src/output/64x64/frei0r-plugins.png",
-    "src/output/48x48/frei0r-plugins.png"
+    "src/128x128/frei0r-plugins.png",
+    "src/64x64/frei0r-plugins.png",
+    "src/48x48/frei0r-plugins.png"
   ],
   "fuse-zip": [
-    "src/output/128x128/blaze.png",
-    "src/output/64x64/blaze.png",
-    "src/output/48x48/blaze.png"
+    "src/128x128/blaze.png",
+    "src/64x64/blaze.png",
+    "src/48x48/blaze.png"
   ],
   "fvwm3": [
-    "src/output/128x128/fvwm3.png",
-    "src/output/64x64/fvwm3.png",
-    "src/output/48x48/fvwm3.png"
+    "src/128x128/fvwm3.png",
+    "src/64x64/fvwm3.png",
+    "src/48x48/fvwm3.png"
   ],
   "gammu": [
-    "src/output/128x128/gammu.png",
-    "src/output/64x64/gammu.png",
-    "src/output/48x48/gammu.png"
+    "src/128x128/gammu.png",
+    "src/64x64/gammu.png",
+    "src/48x48/gammu.png"
   ],
   "gap-packages": [
-    "src/output/128x128/gap-packages.png",
-    "src/output/64x64/gap-packages.png",
-    "src/output/48x48/gap-packages.png"
+    "src/128x128/gap-packages.png",
+    "src/64x64/gap-packages.png",
+    "src/48x48/gap-packages.png"
   ],
   "garage": [
-    "src/output/128x128/garage.png",
-    "src/output/64x64/garage.png",
-    "src/output/48x48/garage.png"
+    "src/128x128/garage.png",
+    "src/64x64/garage.png",
+    "src/48x48/garage.png"
   ],
   "gcab": [
-    "src/output/128x128/gcab.png",
-    "src/output/64x64/gcab.png",
-    "src/output/48x48/gcab.png"
+    "src/128x128/gcab.png",
+    "src/64x64/gcab.png",
+    "src/48x48/gcab.png"
   ],
   "gcc": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-ada": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-d": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-fortran": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-gcobol": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-go": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-libs": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-m2": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-objc": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc-rust": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc14": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc14-fortran": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc14-libs": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc9": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc9-fortran": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gcc9-libs": [
-    "src/output/128x128/arm-none-eabi-gcc.png",
-    "src/output/64x64/arm-none-eabi-gcc.png",
-    "src/output/48x48/arm-none-eabi-gcc.png"
+    "src/128x128/arm-none-eabi-gcc.png",
+    "src/64x64/arm-none-eabi-gcc.png",
+    "src/48x48/arm-none-eabi-gcc.png"
   ],
   "gdm-settings": [
-    "src/output/128x128/gdm-settings.png",
-    "src/output/64x64/gdm-settings.png",
-    "src/output/48x48/gdm-settings.png"
+    "src/128x128/gdm-settings.png",
+    "src/64x64/gdm-settings.png",
+    "src/48x48/gdm-settings.png"
   ],
   "geekbench": [
-    "src/output/128x128/geekbench.png",
-    "src/output/64x64/geekbench.png",
-    "src/output/48x48/geekbench.png"
+    "src/128x128/geekbench.png",
+    "src/64x64/geekbench.png",
+    "src/48x48/geekbench.png"
   ],
   "geonkick-common": [
-    "src/output/128x128/geonkick-common.png",
-    "src/output/64x64/geonkick-common.png",
-    "src/output/48x48/geonkick-common.png"
+    "src/128x128/geonkick-common.png",
+    "src/64x64/geonkick-common.png",
+    "src/48x48/geonkick-common.png"
   ],
   "geonkick-lv2": [
-    "src/output/128x128/geonkick-common.png",
-    "src/output/64x64/geonkick-common.png",
-    "src/output/48x48/geonkick-common.png"
+    "src/128x128/geonkick-common.png",
+    "src/64x64/geonkick-common.png",
+    "src/48x48/geonkick-common.png"
   ],
   "geonkick-vst3": [
-    "src/output/128x128/geonkick-common.png",
-    "src/output/64x64/geonkick-common.png",
-    "src/output/48x48/geonkick-common.png"
+    "src/128x128/geonkick-common.png",
+    "src/64x64/geonkick-common.png",
+    "src/48x48/geonkick-common.png"
   ],
   "getdns": [
-    "src/output/128x128/getdns.png",
-    "src/output/64x64/getdns.png",
-    "src/output/48x48/getdns.png"
+    "src/128x128/getdns.png",
+    "src/64x64/getdns.png",
+    "src/48x48/getdns.png"
   ],
   "ginkgo-hpc-cuda": [
-    "src/output/128x128/ginkgo-hpc-cuda.png",
-    "src/output/64x64/ginkgo-hpc-cuda.png",
-    "src/output/48x48/ginkgo-hpc-cuda.png"
+    "src/128x128/ginkgo-hpc-cuda.png",
+    "src/64x64/ginkgo-hpc-cuda.png",
+    "src/48x48/ginkgo-hpc-cuda.png"
   ],
   "ginkgo-hpc-docs": [
-    "src/output/128x128/ginkgo-hpc-cuda.png",
-    "src/output/64x64/ginkgo-hpc-cuda.png",
-    "src/output/48x48/ginkgo-hpc-cuda.png"
+    "src/128x128/ginkgo-hpc-cuda.png",
+    "src/64x64/ginkgo-hpc-cuda.png",
+    "src/48x48/ginkgo-hpc-cuda.png"
   ],
   "ginkgo-hpc-hip": [
-    "src/output/128x128/ginkgo-hpc-cuda.png",
-    "src/output/64x64/ginkgo-hpc-cuda.png",
-    "src/output/48x48/ginkgo-hpc-cuda.png"
+    "src/128x128/ginkgo-hpc-cuda.png",
+    "src/64x64/ginkgo-hpc-cuda.png",
+    "src/48x48/ginkgo-hpc-cuda.png"
   ],
   "git-zsh-completion": [
-    "src/output/128x128/git-zsh-completion.png",
-    "src/output/64x64/git-zsh-completion.png",
-    "src/output/48x48/git-zsh-completion.png"
+    "src/128x128/git-zsh-completion.png",
+    "src/64x64/git-zsh-completion.png",
+    "src/48x48/git-zsh-completion.png"
   ],
   "gl2ps": [
-    "src/output/128x128/gl2ps.png",
-    "src/output/64x64/gl2ps.png",
-    "src/output/48x48/gl2ps.png"
+    "src/128x128/gl2ps.png",
+    "src/64x64/gl2ps.png",
+    "src/48x48/gl2ps.png"
   ],
   "glusterfs": [
-    "src/output/128x128/glusterfs.png",
-    "src/output/64x64/glusterfs.png",
-    "src/output/48x48/glusterfs.png"
+    "src/128x128/glusterfs.png",
+    "src/64x64/glusterfs.png",
+    "src/48x48/glusterfs.png"
   ],
   "gnuradio": [
-    "src/output/128x128/gnuradio.png",
-    "src/output/64x64/gnuradio.png",
-    "src/output/48x48/gnuradio.png"
+    "src/128x128/gnuradio.png",
+    "src/64x64/gnuradio.png",
+    "src/48x48/gnuradio.png"
   ],
   "gnuradio-docs": [
-    "src/output/128x128/gnuradio.png",
-    "src/output/64x64/gnuradio.png",
-    "src/output/48x48/gnuradio.png"
+    "src/128x128/gnuradio.png",
+    "src/64x64/gnuradio.png",
+    "src/48x48/gnuradio.png"
   ],
   "gnuradio-examples": [
-    "src/output/128x128/gnuradio.png",
-    "src/output/64x64/gnuradio.png",
-    "src/output/48x48/gnuradio.png"
+    "src/128x128/gnuradio.png",
+    "src/64x64/gnuradio.png",
+    "src/48x48/gnuradio.png"
   ],
   "gnuradio-utils": [
-    "src/output/128x128/gnuradio.png",
-    "src/output/64x64/gnuradio.png",
-    "src/output/48x48/gnuradio.png"
+    "src/128x128/gnuradio.png",
+    "src/64x64/gnuradio.png",
+    "src/48x48/gnuradio.png"
   ],
   "gnustep-base": [
-    "src/output/128x128/gnustep-base.png",
-    "src/output/64x64/gnustep-base.png",
-    "src/output/48x48/gnustep-base.png"
+    "src/128x128/gnustep-base.png",
+    "src/64x64/gnustep-base.png",
+    "src/48x48/gnustep-base.png"
   ],
   "gnustep-make": [
-    "src/output/128x128/gnustep-base.png",
-    "src/output/64x64/gnustep-base.png",
-    "src/output/48x48/gnustep-base.png"
+    "src/128x128/gnustep-base.png",
+    "src/64x64/gnustep-base.png",
+    "src/48x48/gnustep-base.png"
   ],
   "go": [
-    "src/output/128x128/go.png",
-    "src/output/64x64/go.png",
-    "src/output/48x48/go.png"
+    "src/128x128/go.png",
+    "src/64x64/go.png",
+    "src/48x48/go.png"
   ],
   "go-ethereum": [
-    "src/output/128x128/go-ethereum.png",
-    "src/output/64x64/go-ethereum.png",
-    "src/output/48x48/go-ethereum.png"
+    "src/128x128/go-ethereum.png",
+    "src/64x64/go-ethereum.png",
+    "src/48x48/go-ethereum.png"
   ],
   "go-task": [
-    "src/output/128x128/go-task.png",
-    "src/output/64x64/go-task.png",
-    "src/output/48x48/go-task.png"
+    "src/128x128/go-task.png",
+    "src/64x64/go-task.png",
+    "src/48x48/go-task.png"
   ],
   "go-tools": [
-    "src/output/128x128/go.png",
-    "src/output/64x64/go.png",
-    "src/output/48x48/go.png"
+    "src/128x128/go.png",
+    "src/64x64/go.png",
+    "src/48x48/go.png"
   ],
   "gpgme": [
-    "src/output/128x128/gpgme.png",
-    "src/output/64x64/gpgme.png",
-    "src/output/48x48/gpgme.png"
+    "src/128x128/gpgme.png",
+    "src/64x64/gpgme.png",
+    "src/48x48/gpgme.png"
   ],
   "gpgmepp": [
-    "src/output/128x128/gpgme.png",
-    "src/output/64x64/gpgme.png",
-    "src/output/48x48/gpgme.png"
+    "src/128x128/gpgme.png",
+    "src/64x64/gpgme.png",
+    "src/48x48/gpgme.png"
   ],
   "gradle": [
-    "src/output/128x128/gradle.png",
-    "src/output/64x64/gradle.png",
-    "src/output/48x48/gradle.png"
+    "src/128x128/gradle.png",
+    "src/64x64/gradle.png",
+    "src/48x48/gradle.png"
   ],
   "gradle-doc": [
-    "src/output/128x128/gradle.png",
-    "src/output/64x64/gradle.png",
-    "src/output/48x48/gradle.png"
+    "src/128x128/gradle.png",
+    "src/64x64/gradle.png",
+    "src/48x48/gradle.png"
   ],
   "gradle-src": [
-    "src/output/128x128/gradle.png",
-    "src/output/64x64/gradle.png",
-    "src/output/48x48/gradle.png"
+    "src/128x128/gradle.png",
+    "src/64x64/gradle.png",
+    "src/48x48/gradle.png"
   ],
   "grafana": [
-    "src/output/128x128/grafana.png",
-    "src/output/64x64/grafana.png",
-    "src/output/48x48/grafana.png"
+    "src/128x128/grafana.png",
+    "src/64x64/grafana.png",
+    "src/48x48/grafana.png"
   ],
   "grammalecte": [
-    "src/output/128x128/grammalecte.png",
-    "src/output/64x64/grammalecte.png",
-    "src/output/48x48/grammalecte.png"
+    "src/128x128/grammalecte.png",
+    "src/64x64/grammalecte.png",
+    "src/48x48/grammalecte.png"
   ],
   "graphviz": [
-    "src/output/128x128/graphviz.png",
-    "src/output/64x64/graphviz.png",
-    "src/output/48x48/graphviz.png"
+    "src/128x128/graphviz.png",
+    "src/64x64/graphviz.png",
+    "src/48x48/graphviz.png"
   ],
   "groovy-docs": [
-    "src/output/128x128/groovy-docs.png",
-    "src/output/64x64/groovy-docs.png",
-    "src/output/48x48/groovy-docs.png"
+    "src/128x128/groovy-docs.png",
+    "src/64x64/groovy-docs.png",
+    "src/48x48/groovy-docs.png"
   ],
   "grpc-cli": [
-    "src/output/128x128/grpc-cli.png",
-    "src/output/64x64/grpc-cli.png",
-    "src/output/48x48/grpc-cli.png"
+    "src/128x128/grpc-cli.png",
+    "src/64x64/grpc-cli.png",
+    "src/48x48/grpc-cli.png"
   ],
   "gst-devtools-libs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-editing-services": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-libav": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-aws": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-burn": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-cdg": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-claxon": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-csound": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-dav1d": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-debugseimetainserter": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-deepgram": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-demucs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-elevenlabs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-fallbackswitch": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-ffv1": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-gif": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-gopbuffer": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-gtk": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-gtk4": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-hip": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-hlsmultivariantsink": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-hlssink3": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-hsv": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-icecast": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-isobmff": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-json": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-lewton": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-livesync": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-mpegtslive": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-msdk": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-onnx": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-opencv": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-originalbuffer": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-qml6": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-qmlgl": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-qsv": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-quinn": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-raptorq": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rav1e": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-regex": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-reqwest": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsanalytics": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsaudiofx": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsaudioparsers": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsclosedcaption": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsfile": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsflv": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsinter": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsonvif": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rspng": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsrtp": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsrtsp": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rstracers": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rsvideofx": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rswebp": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-rswebrtc": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-skia": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-sodium": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-speechmatics": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-spotify": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-streamgrouper": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-textaccumulate": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-textahead": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-textwrap": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-threadshare": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-togglerecord": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-uriplaylistbin": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-va": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-webrtchttp": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-whisper": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-wpe": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugin-wpe2": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-bad": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-bad-libs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-base": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-base-libs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-good": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-plugins-ugly": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-python": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-rtsp-server": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gst-webrtc-signalling-server": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gstreamer": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gstreamer-docs": [
-    "src/output/128x128/gst-devtools-libs.png",
-    "src/output/64x64/gst-devtools-libs.png",
-    "src/output/48x48/gst-devtools-libs.png"
+    "src/128x128/gst-devtools-libs.png",
+    "src/64x64/gst-devtools-libs.png",
+    "src/48x48/gst-devtools-libs.png"
   ],
   "gulp": [
-    "src/output/128x128/gulp.png",
-    "src/output/64x64/gulp.png",
-    "src/output/48x48/gulp.png"
+    "src/128x128/gulp.png",
+    "src/64x64/gulp.png",
+    "src/48x48/gulp.png"
   ],
   "gupnp": [
-    "src/output/128x128/gupnp.png",
-    "src/output/64x64/gupnp.png",
-    "src/output/48x48/gupnp.png"
+    "src/128x128/gupnp.png",
+    "src/64x64/gupnp.png",
+    "src/48x48/gupnp.png"
   ],
   "handbrake-cli": [
-    "src/output/128x128/handbrake-cli.png",
-    "src/output/64x64/handbrake-cli.png",
-    "src/output/48x48/handbrake-cli.png"
+    "src/128x128/handbrake-cli.png",
+    "src/64x64/handbrake-cli.png",
+    "src/48x48/handbrake-cli.png"
   ],
   "happy": [
-    "src/output/128x128/happy.png",
-    "src/output/64x64/happy.png",
-    "src/output/48x48/happy.png"
+    "src/128x128/happy.png",
+    "src/64x64/happy.png",
+    "src/48x48/happy.png"
   ],
   "haproxy": [
-    "src/output/128x128/haproxy.png",
-    "src/output/64x64/haproxy.png",
-    "src/output/48x48/haproxy.png"
+    "src/128x128/haproxy.png",
+    "src/64x64/haproxy.png",
+    "src/48x48/haproxy.png"
   ],
   "hardinfo2": [
-    "src/output/128x128/hardinfo2.png",
-    "src/output/64x64/hardinfo2.png",
-    "src/output/48x48/hardinfo2.png"
+    "src/128x128/hardinfo2.png",
+    "src/64x64/hardinfo2.png",
+    "src/48x48/hardinfo2.png"
   ],
   "harfbuzz-cairo": [
-    "src/output/128x128/harfbuzz-cairo.png",
-    "src/output/64x64/harfbuzz-cairo.png",
-    "src/output/48x48/harfbuzz-cairo.png"
+    "src/128x128/harfbuzz-cairo.png",
+    "src/64x64/harfbuzz-cairo.png",
+    "src/48x48/harfbuzz-cairo.png"
   ],
   "harfbuzz-docs": [
-    "src/output/128x128/harfbuzz-cairo.png",
-    "src/output/64x64/harfbuzz-cairo.png",
-    "src/output/48x48/harfbuzz-cairo.png"
+    "src/128x128/harfbuzz-cairo.png",
+    "src/64x64/harfbuzz-cairo.png",
+    "src/48x48/harfbuzz-cairo.png"
   ],
   "harfbuzz-icu": [
-    "src/output/128x128/harfbuzz-cairo.png",
-    "src/output/64x64/harfbuzz-cairo.png",
-    "src/output/48x48/harfbuzz-cairo.png"
+    "src/128x128/harfbuzz-cairo.png",
+    "src/64x64/harfbuzz-cairo.png",
+    "src/48x48/harfbuzz-cairo.png"
   ],
   "harfbuzz-utils": [
-    "src/output/128x128/harfbuzz-cairo.png",
-    "src/output/64x64/harfbuzz-cairo.png",
-    "src/output/48x48/harfbuzz-cairo.png"
+    "src/128x128/harfbuzz-cairo.png",
+    "src/64x64/harfbuzz-cairo.png",
+    "src/48x48/harfbuzz-cairo.png"
   ],
   "lib32-twolame": [
-    "src/output/128x128/lib32-twolame.png",
-    "src/output/64x64/lib32-twolame.png",
-    "src/output/48x48/lib32-twolame.png"
+    "src/128x128/lib32-twolame.png",
+    "src/64x64/lib32-twolame.png",
+    "src/48x48/lib32-twolame.png"
   ],
   "libsvm": [
-    "src/output/128x128/libsvm.png",
-    "src/output/64x64/libsvm.png",
-    "src/output/48x48/libsvm.png"
+    "src/128x128/libsvm.png",
+    "src/64x64/libsvm.png",
+    "src/48x48/libsvm.png"
   ],
   "tarsnap": [
-    "src/output/128x128/tarsnap.png",
-    "src/output/64x64/tarsnap.png",
-    "src/output/48x48/tarsnap.png"
+    "src/128x128/tarsnap.png",
+    "src/64x64/tarsnap.png",
+    "src/48x48/tarsnap.png"
   ],
   "evisum": [
-    "src/output/128x128/efl-docs.png",
-    "src/output/64x64/efl-docs.png",
-    "src/output/48x48/efl-docs.png"
+    "src/128x128/efl-docs.png",
+    "src/64x64/efl-docs.png",
+    "src/48x48/efl-docs.png"
   ],
   "gsimplecal": [
-    "src/output/128x128/gsimplecal.png",
-    "src/output/64x64/gsimplecal.png",
-    "src/output/48x48/gsimplecal.png"
+    "src/128x128/gsimplecal.png",
+    "src/64x64/gsimplecal.png",
+    "src/48x48/gsimplecal.png"
+  ],
+  "qt5-base": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-declarative": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-feedback": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-graphicaleffects": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-imageformats": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-multimedia": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-networkauth": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-quickcontrols": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-quickcontrols-nemo": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-quickcontrols2": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-script": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-sensors": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-serialport": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-speech": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-svg": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-systems": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-tools": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-ukui-platformtheme": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-virtualkeyboard": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-wayland": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-x11extras": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-xcb-private-headers": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-xmlpatterns": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-location": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-webchannel": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-webengine": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-websockets": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt5-translations": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-5compat": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-base": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-charts": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-connectivity": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-datavis3d": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-declarative": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-graphs": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-grpc": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-httpserver": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-imageformats": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-languageserver": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-location": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-lottie": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-mqtt": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-multimedia": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-multimedia-ffmpeg": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-multimedia-gstreamer": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-networkauth": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-positioning": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-quick3d": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-quick3dphysics": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-quickeffectmaker": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-quicktimeline": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-remoteobjects": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-scxml": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-sensors": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-serialbus": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-serialport": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-shadertools": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-speech": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-svg": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-virtualkeyboard": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-wayland": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-webchannel": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-websockets": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-webview": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-xcb-private-headers": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-3d": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-doc": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-examples": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-translations": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "qt6-webengine": [
+    "src/48x48/qt.png",
+    "src/64x64/qt.png",
+    "src/128x128/qt.png"
+  ],
+  "syd-tui": [
+    "src/48x48/syd.png",
+    "src/64x64/syd.png",
+    "src/128x128/syd.png"
+  ],
+  "catppuccin": [
+    "src/48x48/catppuccin.png",
+    "src/64x64/catppuccin.png",
+    "src/128x128/catppuccin.png"
+  ],
+  "zziplib": [
+    "src/48x48/zziplib.png",
+    "src/64x64/zziplib.png",
+    "src/128x128/zziplib.png"
+  ],
+  "zssh": [
+    "src/48x48/zssh.png",
+    "src/64x64/zssh.png",
+    "src/128x128/zssh.png"
+  ],
+  "zps": [
+    "src/48x48/zps.png",
+    "src/64x64/zps.png",
+    "src/128x128/zps.png"
+  ],
+  "zopfli": [
+    "src/48x48/zopfli.png",
+    "src/64x64/zopfli.png",
+    "src/128x128/zopfli.png"
+  ],
+  "frotz": [
+    "src/48x48/frotz.png",
+    "src/64x64/frotz.png",
+    "src/128x128/frotz.png"
+  ],
+  "sword": [
+    "src/48x48/sword.png",
+    "src/64x64/sword.png",
+    "src/128x128/sword.png"
+  ],
+  "sxiv": [
+    "src/48x48/sxiv.png",
+    "src/64x64/sxiv.png",
+    "src/128x128/sxiv.png"
+  ],
+  "syft": [
+    "src/48x48/syft.png",
+    "src/64x64/syft.png",
+    "src/128x128/syft.png"
+  ],
+  "symengine": [
+    "src/48x48/symengine.png",
+    "src/64x64/symengine.png",
+    "src/128x128/symengine.png"
+  ],
+  "sympol": [
+    "src/48x48/sympol.png",
+    "src/64x64/sympol.png",
+    "src/128x128/sympol.png"
+  ],
+  "cosmic-applets": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-bg": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-comp": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-greeter": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-idle": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-initial-setup": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-notifications": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-osd": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-panel": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-randr": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-screenshot": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-session": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-settings-daemon": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-workspaces": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-app-library-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-applets-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-applibrary-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-bg-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-comp-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-edit-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-files-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-greeter-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-icons-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-idle-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-launcher-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-notifications-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-osd-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-panel-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-randr-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-screenshot-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-session-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-settings-daemon-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-settings-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-term-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-wallpapers-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-workspaces-git": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-icon-theme": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "cosmic-wallpapers": [
+    "src/48x48/cosmic.png",
+    "src/64x64/cosmic.png",
+    "src/128x128/cosmic.png"
+  ],
+  "adwaita": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-color-schemes": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-qt-git": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-qt5": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-qt6": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-cursors": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-fonts": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-icon-theme": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "adwaita-icon-theme-legacy": [
+    "src/48x48/adwaita.png",
+    "src/64x64/adwaita.png",
+    "src/128x128/adwaita.png"
+  ],
+  "alpm-db": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-lint": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-mtree": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-pkginfo": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-repo-db": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-soname": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-srcinfo": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "alpm-docs": [
+    "src/48x48/alpm-pkgbuild-bridge.png",
+    "src/64x64/alpm-pkgbuild-bridge.png",
+    "src/128x128/alpm-pkgbuild-bridge.png"
+  ],
+  "aws-c-auth": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-cal": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-common": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-compression": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-event-stream": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-http": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-io": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-mqtt": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-s3": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-c-sdkutils": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-checksums": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-crt-cpp": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-core": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-ec2": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-firehose": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-iam": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-kinesis": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-sdk-cpp-s3": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-vault": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-cli": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "aws-cli-v2": [
+    "src/48x48/aws.png",
+    "src/64x64/aws.png",
+    "src/128x128/aws.png"
+  ],
+  "cairo-dock-plug-ins": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairo-docs": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairo-perl": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairomm": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairomm-1.16": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairomm-1.16-docs": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
+  ],
+  "cairomm-docs": [
+    "src/48x48/cairo.png",
+    "src/64x64/cairo.png",
+    "src/128x128/cairo.png"
   ]
 }

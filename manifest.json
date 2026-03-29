@@ -54807,5 +54807,602 @@
     "src/48x48/budgie.png",
     "src/64x64/budgie.png",
     "src/128x128/budgie.png"
+  ],
+  "gtk-layer-shell": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-session-lock": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-vnc": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-vnc-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk4-layer-shell": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkdatabox": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtklock": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtklock-playerctl-module": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtklock-powerbar-module": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtklock-userinfo-module": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkmm-4.0": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkmm-4.0-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkmm3": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkmm3-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceview3": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceview4": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceview5": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceview5-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceviewmm": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtksourceviewmm-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkspell3": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkspellmm": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtkspellmm-docs": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-doc": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-sharp-3": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk-theme-elementary": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "gtk2-compat": [
+    "src/48x48/gtk-update-icon-cache.png",
+    "src/64x64/gtk-update-icon-cache.png",
+    "src/128x128/gtk-update-icon-cache.png"
+  ],
+  "wine-ge-custom": [
+    "src/64x64/wine.png",
+    "src/128x128/wine.png"
+  ],
+  "wine-mono": [
+    "src/64x64/wine.png",
+    "src/128x128/wine.png"
+  ],
+  "wine-staging": [
+    "src/64x64/wine.png",
+    "src/128x128/wine.png"
+  ],
+  "wine-gecko": [
+    "src/64x64/wine.png",
+    "src/128x128/wine.png"
+  ],
+  "freedesktoporg": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-dbus-proxy": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-cosmic": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-dde": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-gnome": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-gtk": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-hyprland": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-kde": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-lxqt": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-phosh": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-wlr": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-xapp": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-user-dirs-gtk": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-utils-cxx": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-cosmic-git": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-utils": [
+    "src/64x64/freedesktoporg.png",
+    "src/128x128/freedesktoporg.png"
+  ],
+  "shelly": [
+    "src/48x48/shelly.png",
+    "src/64x64/shelly.png",
+    "src/128x128/shelly.png"
+  ],
+  "octopi": [
+    "src/48x48/octopi.png"
+  ],
+  "octopi-notifier-frameworks": [
+    "src/48x48/octopi.png"
+  ],
+  "octopi-notifier-qt5": [
+    "src/48x48/octopi.png"
+  ],
+  "alpm_octopi_utils": [
+    "src/48x48/octopi.png"
+  ],
+  "system76-firmware": [
+    "src/48x48/system76.png",
+    "src/64x64/system76.png",
+    "src/128x128/system76.png"
+  ],
+  "system76-scheduler": [
+    "src/48x48/system76.png",
+    "src/64x64/system76.png",
+    "src/128x128/system76.png"
+  ],
+  "system76-power": [
+    "src/48x48/system76.png",
+    "src/64x64/system76.png",
+    "src/128x128/system76.png"
+  ],
+  "systemd": [
+    "src/48x48/systemd.png",
+    "src/64x64/systemd.png",
+    "src/128x128/systemd.png"
+  ],
+  "opensearch-alerting-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-anomaly-detection-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-asynchronous-search-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-cli": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-cross-cluster-replication-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-alerting-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-anomaly-detection-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-index-management-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-maps-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-notifications-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-query-workbench-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-security-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-geospatial-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-index-management-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-job-scheduler-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-knn-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-ml-commons-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-neural-search-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-notifications-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-performance-analyzer-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-security-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-sql-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-observability-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-dashboards-reports-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-observability-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "opensearch-reports-scheduler-plugin": [
+    "src/48x48/opensearch.png",
+    "src/64x64/opensearch.png",
+    "src/128x128/opensearch.png"
+  ],
+  "nemo-qml-plugin-configuration": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-qml-plugin-notifications": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-audio-tab": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-compare": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-emblems": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-fileroller": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-image-converter": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-media-columns": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-pastebin": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-python": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-repairer": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-share": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-terminal": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nemo-theme-glacier": [
+    "src/48x48/nemo.png",
+    "src/64x64/nemo.png",
+    "src/128x128/nemo.png"
+  ],
+  "nano": [
+    "src/48x48/nano.png",
+    "src/64x64/nano.png",
+    "src/128x128/nano.png"
+  ],
+  "nano-syntax-highlighting": [
+    "src/48x48/nano.png",
+    "src/64x64/nano.png",
+    "src/128x128/nano.png"
+  ],
+  "nanobind": [
+    "src/48x48/nano.png",
+    "src/64x64/nano.png",
+    "src/128x128/nano.png"
+  ],
+  "mxml": [
+    "src/48x48/mxml.png",
+    "src/64x64/mxml.png",
+    "src/128x128/mxml.png"
+  ],
+  "mxml-docs": [
+    "src/48x48/mxml.png",
+    "src/64x64/mxml.png",
+    "src/128x128/mxml.png"
+  ],
+  "mutter": [
+    "src/48x48/mutter.png",
+    "src/64x64/mutter.png",
+    "src/128x128/mutter.png"
+  ],
+  "mutter-devkit": [
+    "src/48x48/mutter.png",
+    "src/64x64/mutter.png",
+    "src/128x128/mutter.png"
+  ],
+  "mutter-docs": [
+    "src/48x48/mutter.png",
+    "src/64x64/mutter.png",
+    "src/128x128/mutter.png"
+  ],
+  "mutter46": [
+    "src/48x48/mutter.png",
+    "src/64x64/mutter.png",
+    "src/128x128/mutter.png"
+  ],
+  "lxqt": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-about": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-admin": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-config": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-globalkeys": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-notificationd": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-openssh-askpass": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-panel": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-policykit": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-powermanagement": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-qtplugin": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-runner": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-session": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-sudo": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-build-tools": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-build-tools-qt5": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-menu-data": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-themes": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-wayland-session": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
   ]
 }

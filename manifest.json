@@ -1735,6 +1735,11 @@
     "src/64x64/kdeframework.png",
     "src/128x128/kdeframework.png"
   ],
+  "breeze-lxqt-theme": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "broadcom-wl": [
     "src/128x128/broadcom-wl.png",
     "src/64x64/broadcom-wl.png",
@@ -2877,6 +2882,11 @@
     "src/48x48/catppuccin.png",
     "src/64x64/catppuccin.png",
     "src/128x128/catppuccin.png"
+  ],
+  "catppuccin-lxqt-themes": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
   ],
   "cbindgen": [
     "src/48x48/cbindgen.png",
@@ -4633,6 +4643,16 @@
     "src/128x128/docbook-xsl.png",
     "src/64x64/docbook-xsl.png",
     "src/48x48/docbook-xsl.png"
+  ],
+  "dockbarx-lxqt-plugin": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "dockbarx-lxqt-plugin-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
   ],
   "docker": [
     "src/128x128/docker.png",
@@ -20830,6 +20850,11 @@
     "src/64x64/lib32-libdatrie.png",
     "src/48x48/lib32-libdatrie.png"
   ],
+  "libdbusmenu-lxqt-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "libdca": [
     "src/128x128/libdvdread.png",
     "src/64x64/libaacs.png",
@@ -20975,15 +21000,40 @@
     "src/64x64/lib32-gdk-pixbuf2.png",
     "src/48x48/lib32-gdk-pixbuf2.png"
   ],
+  "libgeotiff": [
+    "src/48x48/libgeotiff.png",
+    "src/64x64/libgeotiff.png",
+    "src/128x128/libgeotiff.png"
+  ],
   "libgfortran": [
     "src/128x128/libgfortran.png",
     "src/64x64/lib32-gcc-libs.png",
     "src/48x48/lib32-gcc-libs.png"
   ],
+  "libggml-cuda-git": [
+    "src/48x48/libggml-cuda-git.png",
+    "src/64x64/libggml-cuda-git.png",
+    "src/128x128/libggml-cuda-git.png"
+  ],
+  "libggml-git": [
+    "src/48x48/libggml-cuda-git.png",
+    "src/64x64/libggml-cuda-git.png",
+    "src/128x128/libggml-cuda-git.png"
+  ],
   "libgirepository": [
     "src/128x128/libgdata.png",
     "src/64x64/lib32-gdk-pixbuf2.png",
     "src/48x48/lib32-gdk-pixbuf2.png"
+  ],
+  "libgit2": [
+    "src/48x48/libgit2.png",
+    "src/64x64/libgit2.png",
+    "src/128x128/libgit2.png"
+  ],
+  "libglacierapp": [
+    "src/48x48/glacier-calc.png",
+    "src/64x64/glacier-calc.png",
+    "src/128x128/glacier-calc.png"
   ],
   "libgm2": [
     "src/128x128/libgfortran.png",
@@ -21009,6 +21059,11 @@
     "src/128x128/libgooglepinyin.png",
     "src/64x64/libgooglepinyin.png",
     "src/48x48/libgooglepinyin.png"
+  ],
+  "libgoom2": [
+    "src/48x48/libgoom2.png",
+    "src/64x64/libgoom2.png",
+    "src/128x128/libgoom2.png"
   ],
   "libgpg-error": [
     "src/128x128/libgcrypt.png",
@@ -21080,10 +21135,20 @@
     "src/64x64/linux.png",
     "src/128x128/linux.png"
   ],
+  "libigl": [
+    "src/48x48/libigl.png",
+    "src/64x64/libigl.png",
+    "src/128x128/libigl.png"
+  ],
   "libiio": [
     "src/48x48/libiio.png",
     "src/64x64/libiio.png",
     "src/128x128/libiio.png"
+  ],
+  "libime": [
+    "src/48x48/libime.png",
+    "src/64x64/libime.png",
+    "src/128x128/libime.png"
   ],
   "libimobiledevice": [
     "src/128x128/libimobiledevice.png",
@@ -21145,15 +21210,35 @@
     "src/64x64/incidenceeditor.png",
     "src/48x48/incidenceeditor.png"
   ],
+  "libkeybinder3": [
+    "src/48x48/libkeybinder3.png",
+    "src/64x64/libkeybinder3.png",
+    "src/128x128/libkeybinder3.png"
+  ],
   "libkeyfinder": [
     "src/48x48/libkeyfinder.png",
     "src/64x64/libkeyfinder.png",
     "src/128x128/libkeyfinder.png"
   ],
+  "libkiwix": [
+    "src/48x48/libkiwix.png",
+    "src/64x64/libkiwix.png",
+    "src/128x128/libkiwix.png"
+  ],
   "libkolabxml": [
     "src/128x128/libkolabxml.png",
     "src/64x64/libkolabxml.png",
     "src/48x48/libkolabxml.png"
+  ],
+  "libkrun": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
+  ],
+  "libkrunfw": [
+    "src/48x48/netavark.png",
+    "src/64x64/netavark.png",
+    "src/128x128/netavark.png"
   ],
   "libksba": [
     "src/128x128/libgcrypt.png",
@@ -21173,6 +21258,11 @@
     "src/64x64/liblas.png",
     "src/48x48/liblas.png"
   ],
+  "liblc3": [
+    "src/48x48/libultrahdr.png",
+    "src/64x64/libultrahdr.png",
+    "src/128x128/libultrahdr.png"
+  ],
   "libldap": [
     "src/128x128/libldap.png",
     "src/64x64/libldap.png",
@@ -21182,6 +21272,11 @@
     "src/128x128/liblockfile.png",
     "src/64x64/jetring.png",
     "src/48x48/jetring.png"
+  ],
+  "liblphobos": [
+    "src/48x48/liblphobos.png",
+    "src/64x64/liblphobos.png",
+    "src/128x128/liblphobos.png"
   ],
   "liblqr": [
     "src/128x128/liblqr.png",
@@ -21203,10 +21298,40 @@
     "src/64x64/libltc.png",
     "src/48x48/libltc.png"
   ],
+  "liblxqt": [
+    "src/48x48/libsysstat.png",
+    "src/64x64/libsysstat.png",
+    "src/128x128/libsysstat.png"
+  ],
+  "liblxqt-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "libmad": [
     "src/128x128/libmad.png",
     "src/64x64/lib32-libid3tag.png",
     "src/48x48/lib32-libid3tag.png"
+  ],
+  "libmatekbd": [
+    "src/48x48/libmatemixer.png",
+    "src/64x64/libmatemixer.png",
+    "src/128x128/libmatemixer.png"
+  ],
+  "libmatemixer": [
+    "src/48x48/libmatemixer.png",
+    "src/64x64/libmatemixer.png",
+    "src/128x128/libmatemixer.png"
+  ],
+  "libmateweather": [
+    "src/48x48/libmatemixer.png",
+    "src/64x64/libmatemixer.png",
+    "src/128x128/libmatemixer.png"
+  ],
+  "libmatroska": [
+    "src/48x48/libmatroska.png",
+    "src/64x64/libmatroska.png",
+    "src/128x128/libmatroska.png"
   ],
   "libmbim": [
     "src/128x128/libmbim.png",
@@ -21218,6 +21343,11 @@
     "src/64x64/lib32-colord.png",
     "src/48x48/lib32-colord.png"
   ],
+  "libmesode": [
+    "src/48x48/libmesode.png",
+    "src/64x64/libmesode.png",
+    "src/128x128/libmesode.png"
+  ],
   "libmfx": [
     "src/48x48/libmfx.png",
     "src/64x64/libmfx.png",
@@ -21227,6 +21357,11 @@
     "src/128x128/libmgba.png",
     "src/64x64/libmgba.png",
     "src/48x48/libmgba.png"
+  ],
+  "libmicrodns": [
+    "src/48x48/libmicrodns.png",
+    "src/64x64/libmicrodns.png",
+    "src/128x128/libmicrodns.png"
   ],
   "libmilter": [
     "src/128x128/libmilter.png",
@@ -21362,6 +21497,11 @@
     "src/128x128/libnih.png",
     "src/64x64/libnih.png",
     "src/48x48/libnih.png"
+  ],
+  "libnitrokey": [
+    "src/48x48/nethsm-pkcs11.png",
+    "src/64x64/nethsm-pkcs11.png",
+    "src/128x128/nethsm-pkcs11.png"
   ],
   "libnm": [
     "src/128x128/libnm.png",
@@ -24795,6 +24935,11 @@
     "src/64x64/liquidctl.png",
     "src/128x128/liquidctl.png"
   ],
+  "liquidshell": [
+    "src/48x48/liquidshell.png",
+    "src/64x64/liquidshell.png",
+    "src/128x128/liquidshell.png"
+  ],
   "lite-xl": [
     "src/48x48/lite-xl.png",
     "src/64x64/lite-xl.png",
@@ -24902,6 +25047,11 @@
     "src/48x48/lmms.png",
     "src/64x64/lmms.png",
     "src/128x128/lmms.png"
+  ],
+  "lmms-git": [
+    "src/48x48/lmms-git.png",
+    "src/64x64/lmms-git.png",
+    "src/128x128/lmms-git.png"
   ],
   "lnav": [
     "src/128x128/lnav.png",
@@ -26538,6 +26688,11 @@
     "src/64x64/lua.png",
     "src/128x128/lua.png"
   ],
+  "luacheck": [
+    "src/48x48/luacheck.png",
+    "src/64x64/luacheck.png",
+    "src/128x128/luacheck.png"
+  ],
   "luakit": [
     "src/48x48/luakit.png",
     "src/64x64/luakit.png",
@@ -26698,7 +26853,32 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-about-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-admin": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-admin-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-appswitcher": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-appswitcher-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-arc-dark-theme-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26708,7 +26888,17 @@
     "src/64x64/lxqt-archiver.png",
     "src/128x128/lxqt-archiver.png"
   ],
+  "lxqt-archiver-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-build-tools": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-build-tools-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26728,7 +26918,32 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-config-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-connman-applet-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-globalkeys": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-globalkeys-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-labwc-session-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-less-theme-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26738,7 +26953,17 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-menu-data-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-notificationd": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-notificationd-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26748,7 +26973,32 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-openssh-askpass-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-panel": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-panel-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-panel-profiles": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-panel-tool-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-plugin-wingmenu-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26758,7 +27008,27 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-policykit-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-powermanagement": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-powermanagement-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-qt5ct": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-qt5plugin": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26768,7 +27038,17 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-qtplugin-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-runner": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-runner-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26778,7 +27058,17 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-session-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-sudo": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-sudo-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -26788,7 +27078,17 @@
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
   ],
+  "lxqt-themes-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
   "lxqt-wayland-session": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
+  ],
+  "lxqt-wayland-session-git": [
     "src/48x48/lxqt.png",
     "src/64x64/lxqt.png",
     "src/128x128/lxqt.png"
@@ -35850,6 +36150,21 @@
     "src/64x64/portaudio.png",
     "src/128x128/portaudio.png"
   ],
+  "popsift": [
+    "src/48x48/popsift.png",
+    "src/64x64/popsift.png",
+    "src/128x128/popsift.png"
+  ],
+  "popt": [
+    "src/48x48/popt.png",
+    "src/64x64/popt.png",
+    "src/128x128/popt.png"
+  ],
+  "portaudio": [
+    "src/48x48/portaudio.png",
+    "src/64x64/portaudio.png",
+    "src/128x128/portaudio.png"
+  ],
   "posterazor": [
     "src/64x64/posterazor.png"
   ],
@@ -35877,6 +36192,11 @@
     "src/128x128/postgresql.png",
     "src/64x64/postgresql.png",
     "src/48x48/postgresql.png"
+  ],
+  "postgrest": [
+    "src/48x48/postgrest.png",
+    "src/64x64/postgrest.png",
+    "src/128x128/postgrest.png"
   ],
   "postgrey": [
     "src/128x128/postgrey.png",
@@ -58627,6 +58947,11 @@
   "xdg-desktop-portal-lxqt": [
     "src/64x64/freedesktoporg.png",
     "src/128x128/freedesktoporg.png"
+  ],
+  "xdg-desktop-portal-lxqt-git": [
+    "src/48x48/lxqt.png",
+    "src/64x64/lxqt.png",
+    "src/128x128/lxqt.png"
   ],
   "xdg-desktop-portal-phosh": [
     "src/64x64/freedesktoporg.png",
